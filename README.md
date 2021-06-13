@@ -25,9 +25,12 @@ To see the exact requirements see [requirements.txt](requirements.txt)
 
 __________
 
+## Repository structure
 
 
+_________
 
+## Download model
 
 Download the model from [here](https://drive.google.com/uc?export=download&id=11DLldxP1Ll3vqX4CxrQMKF5VdiY11TdS)
 
