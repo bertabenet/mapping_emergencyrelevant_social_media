@@ -4,7 +4,7 @@
 ## Director: Carlos Alberto Alejandro Castillo Ocaranza
 
 #### Year 2020-2021
-[Universitat Pompeu Fabra, Escola d'Enginyeria][resources/upf_logo]
+<img src="resources/upf_logo.png" alt="Universitat Pompeu Fabra, Escola d'Enginyeria" width="400"/>
 
 ------------------------
 
