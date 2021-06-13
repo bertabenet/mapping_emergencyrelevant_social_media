@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-16" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <link rel="stylesheet" href="./node_modules/leaflet/dist/leaflet.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <script
+      type="text/javascript"
+      src="./node_modules/leaflet/dist/leaflet.js"
+    ></script>
+
+    <script
+      type="text/javascript"
+      src="./node_modules/jquery/dist/jquery.min.js"
+    ></script>
+
+  </head>
+
+  <body>
+
+    <div class="tab">
+      <button class="tablinks" onclick="changeTab(event, 'hour')" id="defaultOpen">Last Hour</button>
+      <button class="tablinks" onclick="changeTab(event, 'day')">Last Day</button>
+      <button class="tablinks" onclick="changeTab(event, 'week')">Last Week</button>
+    </div>
+
+    <div id="map-content"></div>
+    <div id="no-content"></div>
+
+    <div class="content"></div>
+
+    <script src="clustering.js"></script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,2523 @@
+Llista dels municipis de [[Catalunya]] ordenats per ordre alfabètic.
+
+
+{| Class="wikitable sortable" border="1" cellpadding="2" cellspacing="0"
+! Nom || Comarca || Població (2007)<ref>[http://www.idescat.cat/cat/idescat/publicacions/anuari/aec_pdf/aec-cap2.pdf Actualització Idescat 2007]</ref>
+|-----
+| [[Abella de la Conca]] || [[Pallars Jussà]] || align="right" | 186
+|-----
+| [[Abrera]] || [[Baix Llobregat]] || align="right" | 10244
+|-----
+| [[Àger]] || [[Noguera]] || align="right" | 491
+|-----
+| [[Agramunt]] || [[Urgell]] || align="right" | 5459
+|-----
+| [[Aguilar de Segarra]] || [[Bages]] || align="right" | 250
+|-----
+| [[Agullana]] || [[Alt Empordà]] || align="right" | 756
+|-----
+| [[Aiguafreda]] || [[Vallès Oriental]] || align="right" | 2373
+|-----
+| [[Aiguamúrcia]] || [[Alt Camp]] || align="right" | 797
+|-----
+| [[Aiguatèbia i Talau]] || [[Conflent]] || align="right" | 46
+|-----
+| [[Aiguaviva]] || [[Gironès]] || align="right" | 594
+|-----
+| [[Aitona]] || [[Segrià]] || align="right" | 2370
+|-----
+| [[Els Alamús]] || [[Segrià]] || align="right" | 701
+|-----
+| [[Alàs i Cerc]] || [[Alt Urgell]] || align="right" | 404
+|-----
+| [[L'Albagés]] || [[Garrigues]] || align="right" | 492
+|-----
+| [[Albanyà]] || [[Alt Empordà]] || align="right" | 137
+|-----
+| [[Albatàrrec]] || [[Segrià]] || align="right" | 1519
+|-----
+| [[L'Albera]] || [[Vallespir]] || align="right" | 77
+|-----
+| [[Albesa]] || [[Noguera]] || align="right" | 1587
+|-----
+| [[L'Albi]] || [[Garrigues]] || align="right" | 811
+|-----
+| [[Albinyana]] || [[Baix Penedès]] || align="right" | 2140
+|-----
+| [[L'Albiol]] || [[Baix Camp]] || align="right" | 348
+|-----
+| [[Albons]] || [[Baix Empordà]] || align="right" | 620
+|-----
+| [[Alcanar]] || [[Montsià]] || align="right" | 9620
+|-----
+| [[Alcanó]] || [[Segrià]] || align="right" | 253
+|-----
+| [[Alcarràs]] || [[Segrià]] || align="right" | 5970
+|-----
+| [[Alcoletge]] || [[Segrià]] || align="right" | 2239
+|-----
+| [[Alcover]] || [[Alt Camp]] || align="right" | 4500
+|-----
+| [[L'Aldea]] || [[Baix Ebre]] || align="right" | 3795
+|-----
+| [[Aldover]] || [[Baix Ebre]] || align="right" | 893
+|-----
+| [[L'Aleixar]] || [[Baix Camp]] || align="right" | 815
+|-----
+| [[Alella]] || [[Maresme]] || align="right" | 9013
+|-----
+| [[Alenyà]] || [[Rosselló]] || align="right" | 2318
+|-----
+| [[Alfara de Carles]] || [[Baix Ebre]] || align="right" | 341
+|-----
+| [[Alfarràs]] || [[Segrià]] || align="right" | 3274
+|-----
+| [[Alfés]] || [[Segrià]] || align="right" | 321
+|-----
+| [[Alforja]] || [[Baix Camp]] || align="right" | 1584
+|-----
+| [[Algerri]] || [[Noguera]] || align="right" | 467
+|-----
+| [[Alguaire]] || [[Segrià]] || align="right" | 3088
+|-----
+| [[Alins]] || [[Pallars Sobirà]] || align="right" | 251
+|-----
+| [[Alió]] || [[Alt Camp]] || align="right" | 376
+|-----
+| [[Almacelles]] || [[Segrià]] || align="right" | 6088
+|-----
+| [[Almatret]] || [[Segrià]] || align="right" | 443
+|-----
+| [[Almenar]] || [[Segrià]] || align="right" | 3576
+|-----
+| [[Almoster]] || [[Baix Camp]] || align="right" | 1241
+|-----
+| [[Alòs de Balaguer]] || [[Noguera]] || align="right" | 174
+|-----
+| [[Alp]] || [[Cerdanya]] || align="right" | 1467
+|-----
+| [[Alpens]] || [[Osona]] || align="right" | 307
+|-----
+| [[Alpicat]] || [[Segrià]] || align="right" | 5362
+|-----
+| [[Alt Àneu]] || [[Pallars Sobirà]] || align="right" | 457
+|-----
+| [[Altafulla]] || [[Tarragonès]] || align="right" | 4274
+|-----
+| [[Amer]] || [[Selva]] || align="right" | 2258
+|-----
+| [[L'Ametlla de Mar]] || [[Baix Ebre]] || align="right" | 6744
+|-----
+| [[L'Ametlla del Vallès]] || [[Vallès Oriental]] || align="right" | 7517
+|-----
+| [[L'Ampolla]] || [[Baix Ebre]] || align="right" | 2613
+|-----
+| [[Amposta]] || [[Montsià]] || align="right" | 19142
+|-----
+| [[Els Angles]] || [[Capcir]] || align="right" | 590
+|-----
+| [[Anglès]] || [[Selva]] || align="right" | 5211
+|-----
+| [[Anglesola]] || [[Urgell]] || align="right" | 1303
+|-----
+| [[Angostrina i Vilanova de les Escaldes]] || [[Cerdanya]] || align="right" | 1380
+|-----
+| [[Arbeca]] || [[Garrigues]] || align="right" | 2512
+|-----
+| [[L'Arboç]] || [[Baix Penedès]] || align="right" | 4802
+|-----
+| [[Arboçols]] || [[Conflent]] || align="right" | 101
+|-----
+| [[Arbolí]] || [[Baix Camp]] || align="right" | 105
+|-----
+| [[Arbúcies]] || [[Selva]] || align="right" | 6232
+|-----
+| [[Arenys de Mar]] || [[Maresme]] || align="right" | 14016
+|-----
+| [[Arenys de Munt]] || [[Maresme]] || align="right" | 7721
+|-----
+| [[Argelaguer]] || [[Garrotxa]] || align="right" | 418
+|-----
+| [[Argelers]] || [[Rosselló]] || align="right" | 9869
+|-----
+| [[Argençola]] || [[Anoia]] || align="right" | 209
+|-----
+| [[L'Argentera]] || [[Baix Camp]] || align="right" | 155
+|-----
+| [[Argentona]] || [[Maresme]] || align="right" | 11161
+|-----
+| [[Arles]] || [[Vallespir]] || align="right" | 2700
+|-----
+| [[L'Armentera]] || [[Alt Empordà]] || align="right" | 770
+|-----
+| [[Arnes]] || [[Terra Alta]] || align="right" | 510
+|-----
+| [[Arres]] || [[Val d'Aran]] || align="right" | 61
+|-----
+| [[Arsèguel]] || [[Alt Urgell]] || align="right" | 100
+|-----
+| [[Artés]] || [[Bages]] || align="right" | 5072
+|-----
+| [[Artesa de Lleida]] || [[Segrià]] || align="right" | 1451
+|-----
+| [[Artesa de Segre]] || [[Noguera]] || align="right" | 3696
+|-----
+| [[Ascó]] || [[Ribera d'Ebre]] || align="right" | 1602
+|-----
+| [[Aspa]] || [[Segrià]] || align="right" | 269
+|-----
+| [[Les Avellanes i Santa Linya]] || [[Noguera]] || align="right" | 469
+|-----
+| [[Avià]] || [[Berguedà]] || align="right" | 2058
+|-----
+| [[Avinyó]] || [[Bages]] || align="right" | 2122
+|-----
+| [[Avinyonet de Puigventós]] || [[Alt Empordà]] || align="right" | 1241
+|-----
+| [[Avinyonet del Penedès]] || [[Alt Penedès]] || align="right" | 1591
+|-----
+| [[Badalona]] || [[Barcelonès]] || align="right" | 221520
+|-----
+| [[Badia del Vallès]] || [[Vallès Occidental]] || align="right" | 14123
+|-----
+| [[Bagà]] || [[Berguedà]] || align="right" | 2178
+|-----
+| [[Bages de Rosselló]] || [[Rosselló]] || align="right" | 3328
+|-----
+| [[Baix Pallars]] || [[Pallars Sobirà]] || align="right" | 381
+|-----
+| [[Baixàs]] || [[Rosselló]] || align="right" | 2217
+|-----
+| [[Balaguer]] || [[Noguera]] || align="right" | 15769
+|-----
+| [[Balenyà]] || [[Osona]] || align="right" | 3479
+|-----
+| [[Balsareny]] || [[Bages]] || align="right" | 3310
+|-----
+| [[Banyeres del Penedès]] || [[Baix Penedès]] || align="right" | 2557
+|-----
+| [[Banyoles]] || [[Pla de l'Estany]] || align="right" | 17309
+|-----
+| [[Els Banys d'Arles]] || [[Vallespir]] || align="right" | 3644
+|-----
+| [[Banyuls de la Marenda]] || [[Rosselló]] || align="right" | 4532
+|-----
+| [[Banyuls dels Aspres]] || [[Rosselló]] || align="right" | 1007
+|-----
+| [[Baó]] || [[Rosselló]] || align="right" | 2874
+|-----
+| [[Barbens]] || [[Pla d'Urgell]] || align="right" | 828
+|-----
+| [[Barberà de la Conca]] || [[Conca de Barberà]] || align="right" | 503
+|-----
+| [[Barberà del Vallès]] || [[Vallès Occidental]] || align="right" | 28633
+|-----
+| [[El Barcarès]] || [[Rosselló]] || align="right" | 4033
+|-----
+| [[Barcelona]] || [[Barcelonès]] || align="right" | 1605602
+|-----
+| [[La Baronia de Rialb]] || [[Noguera]] || align="right" | 281
+|-----
+| [[Bàscara]] || [[Alt Empordà]] || align="right" | 900
+|-----
+| [[Bassella]] || [[Alt Urgell]] || align="right" | 256
+|-----
+| [[La Bastida]] || [[Rosselló]] || align="right" | 95
+|-----
+| [[Batea]] || [[Terra Alta]] || align="right" | 2106
+|-----
+| [[Bausen]] || [[Val d'Aran]] || align="right" | 52
+|-----
+| [[Begues]] || [[Baix Llobregat]] || align="right" | 5699
+|-----
+| [[Begur]] || [[Baix Empordà]] || align="right" | 4076
+|-----
+| [[Belianes]] || [[Urgell]] || align="right" | 592
+|-----
+| [[Bellaguarda]] || [[Garrigues]] || align="right" | 352
+|-----
+| [[Bellcaire d'Empordà]] || [[Baix Empordà]] || align="right" | 672
+|-----
+| [[Bellcaire d'Urgell]] || [[Noguera]] || align="right" | 1295
+|-----
+| [[Bell-lloc d'Urgell]] || [[Pla d'Urgell]] || align="right" | 2326
+|-----
+| [[Bellmunt del Priorat]] || [[Priorat]] || align="right" | 324
+|-----
+| [[Bellmunt d'Urgell]] || [[Noguera]] || align="right" | 225
+|-----
+| [[Bellprat]] || [[Anoia]] || align="right" | 99
+|-----
+| [[Bellpuig]] || [[Urgell]] || align="right" | 4454
+|-----
+| [[Bellvei]] || [[Baix Penedès]] || align="right" | 1748
+|-----
+| [[Bellver de Cerdanya]] || [[Cerdanya]] || align="right" | 1906
+|-----
+| [[Bellvís]] || [[Pla d'Urgell]] || align="right" | 2360
+|-----
+| [[Benavent de Segrià]] || [[Segrià]] || align="right" | 1249
+|-----
+| [[Benifallet]] || [[Baix Ebre]] || align="right" | 790
+|-----
+| [[Benissanet]] || [[Ribera d'Ebre]] || align="right" | 1205
+|-----
+| [[Berga]] || [[Berguedà]] || align="right" | 16457
+|-----
+| [[Besalú]] || [[Garrotxa]] || align="right" | 2257
+|-----
+| [[Bescanó]] || [[Gironès]] || align="right" | 3859
+|-----
+| [[Beuda]] || [[Garrotxa]] || align="right" | 164
+|-----
+| [[Bigues i Riells]] || [[Vallès Oriental]] || align="right" | 7564
+|-----
+| [[Biosca]] || [[Segarra]] || align="right" | 228
+|-----
+| [[La Bisbal de Falset]] || [[Priorat]] || align="right" | 266
+|-----
+| [[La Bisbal del Penedès]] || [[Baix Penedès]] || align="right" | 2815
+|-----
+| [[La Bisbal d'Empordà]] || [[Baix Empordà]] || align="right" | 9261
+|-----
+| [[Biure (Alt Empordà)|Biure]] || [[Alt Empordà]] || align="right" | 236
+|-----
+| [[Blancafort]] || [[Conca de Barberà]] || align="right" | 414
+|-----
+| [[Blanes]] || [[Selva]] || align="right" | 37819
+|-----
+| [[Boadella i les Escaules]] || [[Alt Empordà]] || align="right" | 230
+|-----
+| [[Bolquera]] || [[Cerdanya]] || align="right" | 1613
+|-----
+| [[Bolvir]] || [[Cerdanya]] || align="right" | 295
+|-----
+| [[Bompàs]] || [[Rosselló]] || align="right" | 6944
+|-----
+| [[Bonastre]] || [[Baix Penedès]] || align="right" | 534
+|-----
+| [[Es Bòrdes]] || [[Val d'Aran]] || align="right" | 247
+|-----
+| [[Bordils]] || [[Gironès]] || align="right" | 1554
+|-----
+| [[Les Borges Blanques]] || [[Garrigues]] || align="right" | 5606
+|-----
+| [[Les Borges del Camp]] || [[Baix Camp]] || align="right" | 1914
+|-----
+| [[Borrassà]] || [[Alt Empordà]] || align="right" | 614
+|-----
+| [[Borredà]] || [[Berguedà]] || align="right" | 530
+|-----
+| [[Bossòst]] || [[Val d'Aran]] || align="right" | 1043
+|-----
+| [[Bot (Terra Alta)|Bot]] || [[Terra Alta]] || align="right" | 736
+|-----
+| [[Botarell]] || [[Baix Camp]] || align="right" | 963
+|-----
+| [[Bovera]] || [[Garrigues]] || align="right" | 371
+|-----
+| [[Bràfim]] || [[Alt Camp]] || align="right" | 650
+|-----
+| [[Breda]] || [[Selva]] || align="right" | 3685
+|-----
+| [[El Bruc]] || [[Anoia]] || align="right" | 1655
+|-----
+| [[El Brull]] || [[Osona]] || align="right" | 219
+|-----
+| [[Brullà]] || [[Rosselló]] || align="right" | 918
+|-----
+| [[Brunyola]] || [[Selva]] || align="right" | 362
+|-----
+| [[Bula d'Amunt]] || [[Rosselló]] || align="right" | 56
+|-----
+| [[Bulaternera]] || [[Rosselló]] || align="right" | 643
+|-----
+| [[Cabacés]] || [[Priorat]] || align="right" | 342
+|-----
+| [[Cabanabona]] || [[Noguera]] || align="right" | 115
+|-----
+| [[La Cabanassa]] || [[Cerdanya]] || align="right" | 622
+|-----
+| [[Cabanelles]] || [[Alt Empordà]] || align="right" | 240
+|-----
+| [[Cabanes (Alt Empordà)|Cabanes]] || [[Alt Empordà]] || align="right" | 917
+|-----
+| [[Les Cabanyes]] || [[Alt Penedès]] || align="right" | 791
+|-----
+| [[Cabestany]] || [[Rosselló]] || align="right" | 8230
+|-----
+| [[Cabó]] || [[Alt Urgell]] || align="right" | 104
+|-----
+| [[Cabra del Camp]] || [[Alt Camp]] || align="right" | 944
+|-----
+| [[Cabrera d'Anoia]] || [[Anoia]] || align="right" | 1059
+|-----
+| [[Cabrera de Mar]] || [[Maresme]] || align="right" | 4174
+|-----
+| [[Cabrils]] || [[Maresme]] || align="right" | 6536
+|-----
+| [[Cadaqués]] || [[Alt Empordà]] || align="right" | 2922
+|-----
+| [[Calaf]] || [[Anoia]] || align="right" | 3352
+|-----
+| [[Calafell]] || [[Baix Penedès]] || align="right" | 20521
+|-----
+| [[Calce]] || [[Rosselló]] || align="right" | 214
+|-----
+| [[Calders]] || [[Bages]] || align="right" | 833
+|-----
+| [[Caldes de Malavella]] || [[Selva]] || align="right" | 5674
+|-----
+| [[Caldes de Montbui]] || [[Vallès Oriental]] || align="right" | 15941
+|-----
+| [[Caldes d'Estrac]] || [[Maresme]] || align="right" | 2607
+|-----
+| [[Calella]] || [[Maresme]] || align="right" | 17673
+|-----
+| [[Calldetenes]] || [[Osona]] || align="right" | 2214
+|-----
+| [[Callús]] || [[Bages]] || align="right" | 1577
+|-----
+| [[Calmella]] || [[Rosselló]] || align="right" | 57
+|-----
+| [[Calonge]] || [[Baix Empordà]] || align="right" | 9458
+|-----
+| [[Calonge de Segarra]] || [[Anoia]] || align="right" | 205
+|-----
+| [[Camarasa]] || [[Noguera]] || align="right" | 931
+|-----
+| [[Camarles]] || [[Baix Ebre]] || align="right" | 3371
+|-----
+| [[Cambrils]] || [[Baix Camp]] || align="right" | 27848
+|-----
+| [[Cameles]] || [[Rosselló]] || align="right" | 437
+|-----
+| [[Camós]] || [[Pla de l'Estany]] || align="right" | 677
+|-----
+| [[Campdevànol]] || [[Ripollès]] || align="right" | 3499
+|-----
+| [[Campelles]] || [[Ripollès]] || align="right" | 106
+|-----
+| [[Campins]] || [[Vallès Oriental]] || align="right" | 363
+|-----
+| [[Campllong]] || [[Gironès]] || align="right" | 381
+|-----
+| [[Campome]] || [[Conflent]] || align="right" | 106
+|-----
+| [[Camprodon]] || [[Ripollès]] || align="right" | 2438
+|-----
+| [[Canavelles]] || [[Conflent]] || align="right" | 58
+|-----
+| [[Canejan]] || [[Val d'Aran]] || align="right" | 104
+|-----
+| [[Canet d'Adri]] || [[Gironès]] || align="right" | 576
+|-----
+| [[Canet de Mar]] || [[Maresme]] || align="right" | 12766
+|-----
+| [[Canet de Rosselló]] || [[Rosselló]] || align="right" | 11351
+|-----
+| [[Cànoes]] || [[Rosselló]] || align="right" | 4342
+|-----
+| [[Canovelles]] || [[Vallès Oriental]] || align="right" | 15012
+|-----
+| [[Cànoves i Samalús]] || [[Vallès Oriental]] || align="right" | 2490
+|-----
+| [[Cantallops]] || [[Alt Empordà]] || align="right" | 287
+|-----
+| [[Canyelles]] || [[Garraf]] || align="right" | 3440
+|-----
+| [[Capafonts]] || [[Baix Camp]] || align="right" | 114
+|-----
+| [[Capçanes]] || [[Priorat]] || align="right" | 408
+|-----
+| [[Capellades]] || [[Anoia]] || align="right" | 5383
+|-----
+| [[Capmany]] || [[Alt Empordà]] || align="right" | 494
+|-----
+| [[Capolat]] || [[Berguedà]] || align="right" | 72
+|-----
+| [[Cardedeu]] || [[Vallès Oriental]] || align="right" | 15561
+|-----
+| [[Cardona]] || [[Bages]] || align="right" | 5226
+|-----
+| [[Carme]] || [[Anoia]] || align="right" | 752
+|-----
+| [[Casafabre]] || [[Rosselló]] || align="right" | 34
+|-----
+| [[Caseres]] || [[Terra Alta]] || align="right" | 311
+|-----
+| [[Les Cases de Pena]] || [[Rosselló]] || align="right" | 576
+|-----
+| [[Cassà de la Selva]] || [[Gironès]] || align="right" | 8780
+|-----
+| [[Casserres]] || [[Berguedà]] || align="right" | 1586
+|-----
+| [[Castell de l'Areny]] || [[Berguedà]] || align="right" | 68
+|-----
+| [[Castell de Mur]] || [[Pallars Jussà]] || align="right" | 163
+|-----
+| [[Castell de Vernet]] || [[Conflent]] || align="right" | 130
+|-----
+| [[Castellar de la Ribera]] || [[Solsonès]] || align="right" | 162
+|-----
+| [[Castellar de n'Hug]] || [[Berguedà]] || align="right" | 198
+|-----
+| [[Castellar del Riu]] || [[Berguedà]] || align="right" | 148
+|-----
+| [[Castellar del Vallès]] || [[Vallès Occidental]] || align="right" | 21335
+|-----
+| [[Castellbell i el Vilar]] || [[Bages]] || align="right" | 3369
+|-----
+| [[Castellbisbal]] || [[Vallès Occidental]] || align="right" | 11272
+|-----
+| [[Castellcir]] || [[Vallès Oriental]] || align="right" | 575
+|-----
+| [[Castelldans]] || [[Garrigues]] || align="right" | 1004
+|-----
+| [[Castelldefels]] || [[Baix Llobregat]] || align="right" | 58663
+|-----
+| [[Castellet i la Gornal]] || [[Alt Penedès]] || align="right" | 1919
+|-----
+| [[Castellfollit de la Roca]] || [[Garrotxa]] || align="right" | 993
+|-----
+| [[Castellfollit de Riubregós]] || [[Anoia]] || align="right" | 201
+|-----
+| [[Castellfollit del Boix]] || [[Bages]] || align="right" | 407
+|-----
+| [[Castellgalí]] || [[Bages]] || align="right" | 1436
+|-----
+| [[Castellnou de Bages]] || [[Bages]] || align="right" | 837
+|-----
+| [[Castellnou dels Aspres]] || [[Rosselló]] || align="right" | 373
+|-----
+| [[Castellnou de Seana]] || [[Pla d'Urgell]] || align="right" | 750
+|-----
+| [[Castelló de Farfanya]] || [[Noguera]] || align="right" | 564
+|-----
+| [[Castelló d'Empúries]] || [[Alt Empordà]] || align="right" | 10021
+|-----
+| [[Castellolí]] || [[Anoia]] || align="right" | 460
+|-----
+| [[Castell-Platja d'Aro]] || [[Baix Empordà]] || align="right" | 9768
+|-----
+| [[Castellserà]] || [[Urgell]] || align="right" | 1128
+|-----
+| [[Castellterçol]] || [[Vallès Oriental]] || align="right" | 2202
+|-----
+| [[Castellvell del Camp]] || [[Baix Camp]] || align="right" | 2474
+|-----
+| [[Castellví de la Marca]] || [[Alt Penedès]] || align="right" | 1603
+|-----
+| [[Castellví de Rosanes]] || [[Baix Llobregat]] || align="right" | 1505
+|-----
+| [[Catllà de Conflent]] || [[Conflent]] || align="right" | 687
+|-----
+| [[El Catllar]] || [[Tarragonès]] || align="right" | 3519
+|-----
+| [[Cauders de Conflent]] || [[Conflent]] || align="right" | 6
+|-----
+| [[Cava (Alt Urgell)]] || [[Alt Urgell]] || align="right" | 56
+|-----
+| [[La Cellera de Ter]] || [[Selva]] || align="right" | 2096
+|-----
+| [[Celrà]] || [[Gironès]] || align="right" | 3783
+|-----
+| [[Censà]] || [[Conflent]] || align="right" | 17
+|-----
+| [[Centelles]] || [[Osona]] || align="right" | 6671
+|-----
+| [[Cercs]] || [[Berguedà]] || align="right" | 1333
+|-----
+| [[Cerdanyola del Vallès]] || [[Vallès Occidental]] || align="right" | 57959
+|-----
+| [[Ceret]] || [[Vallespir]] || align="right" | 7568
+|-----
+| [[Cervelló]] || [[Baix Llobregat]] || align="right" | 7674
+|-----
+| [[Cervera]] || [[Segarra]] || align="right" | 9305
+|-----
+| [[Cervera de la Marenda]] || [[Rosselló]] || align="right" | 1551
+|-----
+| [[Cervià de les Garrigues]] || [[Garrigues]] || align="right" | 873
+|-----
+| [[Cervià de Ter]] || [[Gironès]] || align="right" | 827
+|-----
+| [[Cistella]] || [[Alt Empordà]] || align="right" | 232
+|-----
+| [[Ciutadilla]] || [[Urgell]] || align="right" | 223
+|-----
+| [[Clairà]] || [[Rosselló]] || align="right" | 2625
+|-----
+| [[Clariana de Cardener]] || [[Solsonès]] || align="right" | 146
+|-----
+| [[Clarà i Villerac]] || [[Conflent]] || align="right" | 226
+|-----
+| [[Les Cluses]] || [[Vallespir]] || align="right" | 219
+|-----
+| [[Codalet]] || [[Conflent]] || align="right" | 387
+|-----
+| [[El Cogul]] || [[Garrigues]] || align="right" | 211
+|-----
+| [[Colera]] || [[Alt Empordà]] || align="right" | 601
+|-----
+| [[Coll de Nargó]] || [[Alt Urgell]] || align="right" | 618
+|-----
+| [[Collbató]] || [[Baix Llobregat]] || align="right" | 3576
+|-----
+| [[Colldejou]] || [[Baix Camp]] || align="right" | 190
+|-----
+| [[Collsuspina]] || [[Osona]] || align="right" | 316
+|-----
+| [[Colomers]] || [[Baix Empordà]] || align="right" | 213
+|-----
+| [[La Coma i la Pedra]] || [[Solsonès]] || align="right" | 253
+|-----
+| [[Conat]] || [[Conflent]] || align="right" | 45
+|-----
+| [[Conca de Dalt]] || [[Pallars Jussà]] || align="right" | 428
+|-----
+| [[Conesa]] || [[Conca de Barberà]] || align="right" | 141
+|-----
+| [[Constantí]] || [[Tarragonès]] || align="right" | 5813
+|-----
+| [[Copons]] || [[Anoia]] || align="right" | 289
+|-----
+| [[Corbera de les Cabanes]] || [[Rosselló]] || align="right" | 844
+|-----
+| [[Corbera del Castell]] || [[Rosselló]] || align="right" | 591
+|-----
+| [[Corbera de Llobregat]] || [[Baix Llobregat]] || align="right" | 12805
+|-----
+| [[Corbera d'Ebre]] || [[Terra Alta]] || align="right" | 1128
+|-----
+| [[Corbins]] || [[Segrià]] || align="right" | 1347
+|-----
+| [[Corçà]] || [[Baix Empordà]] || align="right" | 1261
+|-----
+| [[Cornellà de Conflent]] || [[Conflent]] || align="right" | 451
+|-----
+| [[Cornellà de Llobregat]] || [[Baix Llobregat]] || align="right" | 84289
+|-----
+| [[Cornellà de la Ribera]] || [[Rosselló]] || align="right" | 1407
+|-----
+| [[Cornellà del Bèrcol]] || [[Rosselló]] || align="right" | 1938
+|-----
+| [[Cornellà del Terri]] || [[Pla de l'Estany]] || align="right" | 2079
+|-----
+| [[Cornudella de Montsant]] || [[Priorat]] || align="right" | 979
+|-----
+| [[Cortsaví]] || [[Vallespir]] || align="right" | 198
+|-----
+| [[Costoja]] || [[Vallespir]] || align="right" | 134
+|-----
+| [[Cotlliure]] || [[Rosselló]] || align="right" | 2944
+|-----
+| [[Creixell]] || [[Tarragonès]] || align="right" | 2758
+|-----
+| [[Crespià]] || [[Pla de l'Estany]] || align="right" | 242
+|-----
+| [[Cruïlles, Monells i Sant Sadurní de l'Heura]] || [[Baix Empordà]] || align="right" | 1271
+|-----
+| [[Cubelles]] || [[Garraf]] || align="right" | 11835
+|-----
+| [[Cubells]] || [[Noguera]] || align="right" | 401
+|-----
+| [[Cunit]] || [[Baix Penedès]] || align="right" | 10033
+|-----
+| [[Darnius]] || [[Alt Empordà]] || align="right" | 547
+|-----
+| [[Das]] || [[Cerdanya]] || align="right" | 176
+|-----
+| [[Deltebre]] || [[Baix Ebre]] || align="right" | 10811
+|-----
+| [[Dorres]] || [[Cerdanya]] || align="right" | 219
+|-----
+| [[Dosrius]] || [[Maresme]] || align="right" | 4469
+|-----
+| [[Duesaigües]] || [[Baix Camp]] || align="right" | 211
+|-----
+| [[Èguet]] || [[Cerdanya]] || align="right" | 494
+|-----
+| [[Eina (Alta Cerdanya)|Eina]] || [[Cerdanya]] || align="right" | 127
+|-----
+| [[Elna]] || [[Rosselló]] || align="right" | 6410
+|-----
+| [[Enveig]] || [[Cerdanya]] || align="right" | 621
+|-----
+| [[Er]] || [[Cerdanya]] || align="right" | 551
+|-----
+| [[L'Escala]] || [[Alt Empordà]] || align="right" | 8795
+|-----
+| [[Escaró]] || [[Conflent]] || align="right" | 84
+|-----
+| [[Esparreguera]] || [[Baix Llobregat]] || align="right" | 21145
+|-----
+| [[Espinelves]] || [[Osona]] || align="right" | 199
+|-----
+| [[Espirà de Conflent]] || [[Conflent]] || align="right" | 125
+|-----
+| [[Espirà de l'Aglí]] || [[Rosselló]] || align="right" | 2850
+|-----
+| [[L'Espluga Calba]] || [[Garrigues]] || align="right" | 452
+|-----
+| [[L'Espluga de Francolí]] || [[Conca de Barberà]] || align="right" | 3857
+|-----
+| [[Esplugues de Llobregat]] || [[Baix Llobregat]] || align="right" | 46808
+|-----
+| [[Espolla]] || [[Alt Empordà]] || align="right" | 367
+|-----
+| [[Esponellà]] || [[Pla de l'Estany]] || align="right" | 437
+|-----
+| [[Espot]] || [[Pallars Sobirà]] || align="right" | 360
+|-----
+| [[L'Espunyola]] || [[Berguedà]] || align="right" | 272
+|-----
+| [[Estagell]] || [[Rosselló]] || align="right" | 1941
+|-----
+| [[Estamariu]] || [[Alt Urgell]] || align="right" | 117
+|-----
+| [[L'Estany]] || [[Bages]] || align="right" | 383
+|-----
+| [[Estaràs]] || [[Segarra]] || align="right" | 184
+|-----
+| [[Estavar]] || [[Cerdanya]] || align="right" | 409
+|-----
+| [[Esterri d'Àneu]] || [[Pallars Sobirà]] || align="right" | 803
+|-----
+| [[Esterri de Cardós]] || [[Pallars Sobirà]] || align="right" | 69
+|-----
+| [[Estoer]] || [[Conflent]] || align="right" | 134
+|-----
+| [[Eus]] || [[Conflent]] || align="right" | 375
+|-----
+| [[Falset]] || [[Priorat]] || align="right" | 2717
+|-----
+| [[El Far d'Empordà]] || [[Alt Empordà]] || align="right" | 483
+|-----
+| [[Farrera]] || [[Pallars Sobirà]] || align="right" | 104
+|-----
+| [[La Fatarella]] || [[Terra Alta]] || align="right" | 1160
+|-----
+| [[La Febró]] || [[Baix Camp]] || align="right" | 58
+|-----
+| [[Figaró-Montmany]] || [[Vallès Oriental]] || align="right" | 1019
+|-----
+| [[Fígols]] || [[Berguedà]] || align="right" | 42
+|-----
+| [[Fígols i Alinyà]] || [[Alt Urgell]] || align="right" | 254
+|-----
+| [[La Figuera]] || [[Priorat]] || align="right" | 165
+|-----
+| [[Figueres (Alt Empordà)|Figueres]] || [[Alt Empordà]] || align="right" | 39641
+|-----
+| [[Figuerola del Camp]] || [[Alt Camp]] || align="right" | 336
+|-----
+| [[Fillols]] || [[Conflent]] || align="right" | 141
+|-----
+| [[Finestret]] || [[Conflent]] || align="right" | 135
+|-----
+| [[Flaçà]] || [[Gironès]] || align="right" | 997
+|-----
+| [[Flix]] || [[Ribera d'Ebre]] || align="right" | 3960
+|-----
+| [[La Floresta]] || [[Garrigues]] || align="right" | 185
+|-----
+| [[Fogars de la Selva]] || [[Selva]] || align="right" | 1338
+|-----
+| [[Fogars de Montclús]] || [[Vallès Oriental]] || align="right" | 437
+|-----
+| [[Foixà]] || [[Baix Empordà]] || align="right" | 325
+|-----
+| [[Folgueroles]] || [[Osona]] || align="right" | 1983
+|-----
+| [[Fondarella]] || [[Pla d'Urgell]] || align="right" | 783
+|-----
+| [[Fonollosa]] || [[Bages]] || align="right" | 1280
+|-----
+| [[Fontanals de Cerdanya]] || [[Cerdanya]] || align="right" | 425
+|-----
+| [[Fontanilles]] || [[Baix Empordà]] || align="right" | 175
+|-----
+| [[Fontcoberta]] || [[Pla de l'Estany]] || align="right" | 1181
+|-----
+| [[Fontpedrosa]] || [[Conflent]] || align="right" | 123
+|-----
+| [[Font-rabiosa]] || [[Capcir]] || align="right" | 91
+|-----
+| [[Font-romeu, Odelló i Vià]] || [[Cerdanya]] || align="right" | 2003
+|-----
+| [[Font-rubí]] || [[Alt Penedès]] || align="right" | 1394
+|-----
+| [[Foradada]] || [[Noguera]] || align="right" | 197
+|-----
+| [[Forallac]] || [[Baix Empordà]] || align="right" | 1746
+|-----
+| [[Forès]] || [[Conca de Barberà]] || align="right" | 57
+|-----
+| [[Formiguera]] || [[Capcir]] || align="right" | 435
+|-----
+| [[Fornells de la Selva]] || [[Gironès]] || align="right" | 1890
+|-----
+| [[Forques]] || [[Rosselló]] || align="right" | 416
+|-----
+| [[Fortià]] || [[Alt Empordà]] || align="right" | 582
+|-----
+| [[Les Franqueses del Vallès]] || [[Vallès Oriental]] || align="right" | 15817
+|-----
+| [[Freginals]] || [[Montsià]] || align="right" | 444
+|-----
+| [[La Fuliola]] || [[Urgell]] || align="right" | 1235
+|-----
+| [[Fullà]] || [[Conflent]] || align="right" | 329
+|-----
+| [[Fulleda]] || [[Garrigues]] || align="right" | 115
+|-----
+| [[Gaià]] || [[Bages]] || align="right" | 154
+|-----
+| [[La Galera]] || [[Montsià]] || align="right" | 824
+|-----
+| [[Gallifa]] || [[Vallès Occidental]] || align="right" | 216
+|-----
+| [[Gandesa]] || [[Terra Alta]] || align="right" | 3091
+|-----
+| [[Garcia]] || [[Ribera d'Ebre]] || align="right" | 534
+|-----
+| [[Els Garidells]] || [[Alt Camp]] || align="right" | 196
+|-----
+| [[La Garriga]] || [[Vallès Oriental]] || align="right" | 13942
+|-----
+| [[Garrigàs]] || [[Alt Empordà]] || align="right" | 346
+|-----
+| [[Garrigoles]] || [[Baix Empordà]] || align="right" | 155
+|-----
+| [[Garriguella]] || [[Alt Empordà]] || align="right" | 731
+|-----
+| [[Gavà]] || [[Baix Llobregat]] || align="right" | 44531
+|-----
+| [[Gavet de la Conca]] || [[Pallars Jussà]] || align="right" | 309
+|-----
+| [[Gelida]] || [[Alt Penedès]] || align="right" | 5976
+|-----
+| [[Ger]] || [[Cerdanya]] || align="right" | 450
+|-----
+| [[Gimenells i el Pla de la Font]] || [[Segrià]] || align="right" | 1118
+|-----
+| [[Ginestar]] || [[Ribera d'Ebre]] || align="right" | 965
+|-----
+| [[Girona]] || [[Gironès]] || align="right" | 89890
+|-----
+| [[Gironella]] || [[Berguedà]] || align="right" | 4786
+|-----
+| [[Gisclareny]] || [[Berguedà]] || align="right" | 33
+|-----
+| [[Glorianes]] || [[Conflent]] || align="right" | 23
+|-----
+| [[Godall]] || [[Montsià]] || align="right" | 771
+|-----
+| [[Golmés]] || [[Pla d'Urgell]] || align="right" | 1560
+|-----
+| [[Gombrèn]] || [[Ripollès]] || align="right" | 222
+|-----
+| [[Gósol]] || [[Berguedà]] || align="right" | 221
+|-----
+| [[La Granada]] || [[Alt Penedès]] || align="right" | 1754
+|-----
+| [[La Granadella]] || [[Garrigues]] || align="right" | 774
+|-----
+| [[Granera]] || [[Vallès Oriental]] || align="right" | 75
+|-----
+| [[La Granja d'Escarp]] || [[Segrià]] || align="right" | 1042
+|-----
+| [[Granollers]] || [[Vallès Oriental]] || align="right" | 58940
+|-----
+| [[Granyanella]] || [[Segarra]] || align="right" | 172
+|-----
+| [[Granyena de les Garrigues]] || [[Garrigues]] || align="right" | 176
+|-----
+| [[Granyena de Segarra]] || [[Segarra]] || align="right" | 149
+|-----
+| [[Gratallops]] || [[Priorat]] || align="right" | 246
+|-----
+| [[Gualba]] || [[Vallès Oriental]] || align="right" | 1048
+|-----
+| [[Gualta]] || [[Baix Empordà]] || align="right" | 358
+|-----
+| [[Guardiola de Berguedà]] || [[Berguedà]] || align="right" | 931
+|-----
+| [[Els Guiamets]] || [[Priorat]] || align="right" | 330
+|-----
+| [[Guils de Cerdanya]] || [[Cerdanya]] || align="right" | 438
+|-----
+| [[Guimerà]] || [[Urgell]] || align="right" | 344
+|-----
+| [[La Guingueta d'Àneu]] || [[Pallars Sobirà]] || align="right" | 360
+|-----
+| [[La Guingueta d'Ix]] || [[Cerdanya]] || align="right" | 1116
+|-----
+| [[Guissona]] || [[Segarra]] || align="right" | 5139
+|-----
+| [[Guixers]] || [[Solsonès]] || align="right" | 137
+|-----
+| [[Gurb]] || [[Osona]] || align="right" | 2296
+|-----
+| [[Horta de Sant Joan]] || [[Terra Alta]] || align="right" | 1238
+|-----
+| [[Hortafà]] || [[Rosselló]] || align="right" | 1093
+|-----
+| [[L'Hospitalet de Llobregat]] || [[Barcelonès]] || align="right" | 248150
+|-----
+| [[Els Hostalets de Pierola]] || [[Anoia]] || align="right" | 2003
+|-----
+| [[Hostalric]] || [[Selva]] || align="right" | 3619
+|-----
+| [[Igualada]] || [[Anoia]] || align="right" | 36817
+|-----
+| [[Illa (Rosselló)|Illa]] || [[Rosselló]] || align="right" | 4993
+|-----
+| [[Isona i Conca Dellà]] || [[Pallars Jussà]] || align="right" | 1139
+|-----
+| [[Isòvol]] || [[Cerdanya]] || align="right" | 265
+|-----
+| [[Ivars de Noguera]] || [[Noguera]] || align="right" | 357
+|-----
+| [[Ivars d'Urgell]] || [[Pla d'Urgell]] || align="right" | 1858
+|-----
+| [[Ivorra]] || [[Segarra]] || align="right" | 144
+|-----
+| [[Jafre]] || [[Baix Empordà]] || align="right" | 386
+|-----
+| [[Jóc]] || [[Conflent]] || align="right" | 146
+|-----
+| [[La Jonquera]] || [[Alt Empordà]] || align="right" | 3020
+|-----
+| [[Jorba]] || [[Anoia]] || align="right" | 714
+|-----
+| [[Josa i Tuixén]] || [[Alt Urgell]] || align="right" | 176
+|-----
+| [[Juià]] || [[Gironès]] || align="right" | 318
+|-----
+| [[Jújols]] || [[Conflent]] || align="right" | 43
+|-----
+| [[Juncosa]] || [[Garrigues]] || align="right" | 546
+|-----
+| [[Juneda]] || [[Garrigues]] || align="right" | 3264
+|-----
+| [[Les]] || [[Val d'Aran]] || align="right" | 903
+|-----
+| [[Linyola]] || [[Pla d'Urgell]] || align="right" | 2583
+|-----
+| [[La Llacuna]] || [[Anoia]] || align="right" | 860
+|-----
+| [[La Llaguna]] || [[Capcir]] || align="right" | 285
+|-----
+| [[Lladó]] || [[Alt Empordà]] || align="right" | 591
+|-----
+| [[Lladorre]] || [[Pallars Sobirà]] || align="right" | 211
+|-----
+| [[Lladurs]] || [[Solsonès]] || align="right" | 207
+|-----
+| [[La Llagosta]] || [[Vallès Oriental]] || align="right" | 13674
+|-----
+| [[Llagostera]] || [[Gironès]] || align="right" | 7062
+|-----
+| [[Llambilles]] || [[Gironès]] || align="right" | 612
+|-----
+| [[Llanars]] || [[Ripollès]] || align="right" | 558
+|-----
+| [[Llançà]] || [[Alt Empordà]] || align="right" | 4611
+|-----
+| [[Llardecans]] || [[Segrià]] || align="right" | 562
+|-----
+| [[Llauró]] || [[Rosselló]] || align="right" | 270
+|-----
+| [[Llavorsí]] || [[Pallars Sobirà]] || align="right" | 334
+|-----
+| [[Lleida]] || [[Segrià]] || align="right" | 125677
+|-----
+| [[Llers]] || [[Alt Empordà]] || align="right" | 1167
+|-----
+| [[Lles de Cerdanya]] || [[Cerdanya]] || align="right" | 227
+|-----
+| [[Lliçà d'Amunt]] || [[Vallès Oriental]] || align="right" | 12938
+|-----
+| [[Lliçà de Vall]] || [[Vallès Oriental]] || align="right" | 6033
+|-----
+| [[Llimiana]] || [[Pallars Jussà]] || align="right" | 158
+|-----
+| [[Llinars del Vallès]] || [[Vallès Oriental]] || align="right" | 8425
+|-----
+| [[Llívia]] || [[Cerdanya]] || align="right" | 1291
+|-----
+| [[Llo]] || [[Cerdanya]] || align="right" | 133
+|-----
+| [[El Lloar]] || [[Priorat]] || align="right" | 111
+|-----
+| [[Llobera]] || [[Solsonès]] || align="right" | 222
+|-----
+| [[Llorac]] || [[Conca de Barberà]] || align="right" | 116
+|-----
+| [[Llorenç del Penedès]] || [[Baix Penedès]] || align="right" | 2073
+|-----
+| [[Lloret de Mar]] || [[Selva]] || align="right" | 32728
+|-----
+| [[Les Llosses]] || [[Ripollès]] || align="right" | 246
+|-----
+| [[Lluçà]] || [[Osona]] || align="right" | 253
+|-----
+| [[Llupià]] || [[Rosselló]] || align="right" | 1797
+|-----
+| [[Maçanet de Cabrenys]] || [[Alt Empordà]] || align="right" | 700
+|-----
+| [[Maçanet de la Selva]] || [[Selva]] || align="right" | 5712
+|-----
+| [[Madremanya]] || [[Gironès]] || align="right" | 222
+|-----
+| [[Maià de Montcal]] || [[Garrotxa]] || align="right" | 379
+|-----
+| [[Maials]] || [[Segrià]] || align="right" | 973
+|-----
+| [[Maldà]] || [[Urgell]] || align="right" | 285
+|-----
+| [[Malgrat de Mar]] || [[Maresme]] || align="right" | 19923
+|-----
+| [[Malla]] || [[Osona]] || align="right" | 257
+|-----
+| [[Manlleu]] || [[Osona]] || align="right" | 19979
+|-----
+| [[Manresa]] || [[Bages]] || align="right" | 71772
+|-----
+| [[Marçà]] || [[Priorat]] || align="right" | 653
+|-----
+| [[Margalef]] || [[Priorat]] || align="right" | 128
+|-----
+| [[Marganell]] || [[Bages]] || align="right" | 288
+|-----
+| [[Marquixanes]] || [[Conflent]] || align="right" | 397
+|-----
+| [[Martorell]] || [[Baix Llobregat]] || align="right" | 26170
+|-----
+| [[Martorelles]] || [[Vallès Oriental]] || align="right" | 4938
+|-----
+| [[Mas de Barberans]] || [[Montsià]] || align="right" | 679
+|-----
+| [[Masarac]] || [[Alt Empordà]] || align="right" | 265
+|-----
+| [[Masdenverge]] || [[Montsià]] || align="right" | 1077
+|-----
+| [[Les Masies de Roda]] || [[Osona]] || align="right" | 742
+|-----
+| [[Les Masies de Voltregà]] || [[Osona]] || align="right" | 3125
+|-----
+| [[Masllorenç]] || [[Baix Penedès]] || align="right" | 500
+|-----
+| [[El Masnou]] || [[Maresme]] || align="right" | 21833
+|-----
+| [[La Masó]] || [[Alt Camp]] || align="right" | 280
+|-----
+| [[Els Masos]] || [[Conflent]] || align="right" | 562
+|-----
+| [[Maspujols]] || [[Baix Camp]] || align="right" | 529
+|-----
+| [[Masquefa]] || [[Anoia]] || align="right" | 7414
+|-----
+| [[El Masroig]] || [[Priorat]] || align="right" | 538
+|-----
+| [[Massalcoreig]] || [[Segrià]] || align="right" | 635
+|-----
+| [[Massanes]] || [[Selva]] || align="right" | 660
+|-----
+| [[Massoteres]] || [[Segarra]] || align="right" | 225
+|-----
+| [[Matadepera]] || [[Vallès Occidental]] || align="right" | 8169
+|-----
+| [[Matamala]] || [[Capcir]] || align="right" | 290
+|-----
+| [[Mataró]] || [[Maresme]] || align="right" | 118748
+|-----
+| [[Mediona]] || [[Alt Penedès]] || align="right" | 2083
+|-----
+| [[Menàrguens]] || [[Noguera]] || align="right" | 863
+|-----
+| [[La Menera]] || [[Vallespir]] || align="right" | 60
+|-----
+| [[Mentet]] || [[Conflent]] || align="right" | 17
+|-----
+| [[Meranges]] || [[Cerdanya]] || align="right" | 86
+|-----
+| [[Mieres]] || [[Garrotxa]] || align="right" | 331
+|-----
+| [[El Milà]] || [[Alt Camp]] || align="right" | 180
+|-----
+| [[Millars (Rosselló)|Millars]] || [[Rosselló]] || align="right" | 3731
+|-----
+| [[Miralcamp]] || [[Pla d'Urgell]] || align="right" | 1310
+|-----
+| [[Miravet]] || [[Ribera d'Ebre]] || align="right" | 796
+|-----
+| [[Moià]] || [[Bages]] || align="right" | 5399
+|-----
+| [[El Molar]] || [[Priorat]] || align="right" | 302
+|-----
+| [[Molig]] || [[Conflent]] || align="right" | 207
+|-----
+| [[Molins de Rei]] || [[Baix Llobregat]] || align="right" | 23374
+|-----
+| [[Mollerussa]] || [[Pla d'Urgell]] || align="right" | 12569
+|-----
+| [[Mollet de Peralada]] || [[Alt Empordà]] || align="right" | 172
+|-----
+| [[Mollet del Vallès]] || [[Vallès Oriental]] || align="right" | 51713
+|-----
+| [[Molló]] || [[Ripollès]] || align="right" | 329
+|-----
+| [[La Molsosa]] || [[Solsonès]] || align="right" | 127
+|-----
+| [[Monistrol de Calders]] || [[Bages]] || align="right" | 691
+|-----
+| [[Monistrol de Montserrat]] || [[Bages]] || align="right" | 2840
+|-----
+| [[Montagut i Oix]] || [[Garrotxa]] || align="right" | 903
+|-----
+| [[Montblanc]] || [[Conca de Barberà]] || align="right" | 6767
+|-----
+| [[Montboló]] || [[Vallespir]] || align="right" | 195
+|-----
+| [[Montbrió del Camp]] || [[Baix Camp]] || align="right" | 1774
+|-----
+| [[Montcada i Reixac]] || [[Vallès Occidental]] || align="right" | 32153
+|-----
+| [[Montclar]] || [[Berguedà]] || align="right" | 116
+|-----
+| [[Montellà i Martinet]] || [[Cerdanya]] || align="right" | 606
+|-----
+| [[Montescot]] || [[Rosselló]] || align="right" | 1551
+|-----
+| [[Montesquiu]] || [[Osona]] || align="right" | 875
+|-----
+| [[Montesquiu d'Albera]] || [[Rosselló]] || align="right" | 1045
+|-----
+| [[Montferrer]] || [[Vallespir]] || align="right" | 202
+|-----
+| [[Montferrer i Castellbò]] || [[Alt Urgell]] || align="right" | 944
+|-----
+| [[Montferri]] || [[Alt Camp]] || align="right" | 258
+|-----
+| [[Montgai]] || [[Noguera]] || align="right" | 772
+|-----
+| [[Montgat]] || [[Maresme]] || align="right" | 9427
+|-----
+| [[Montlluís]] || [[Cerdanya]] || align="right" | 270
+|-----
+| [[Montmajor]] || [[Berguedà]] || align="right" | 463
+|-----
+| [[Montmaneu]] || [[Anoia]] || align="right" | 201
+|-----
+| [[El Montmell]] || [[Baix Penedès]] || align="right" | 1175
+|-----
+| [[Montmeló]] || [[Vallès Oriental]] || align="right" | 8921
+|-----
+| [[Montner]] || [[Rosselló]] || align="right" | 290
+|-----
+| [[Montoliu de Lleida]] || [[Segrià]] || align="right" | 498
+|-----
+| [[Montoliu de Segarra]] || [[Segarra]] || align="right" | 186
+|-----
+| [[Montoriol]] || [[Rosselló]] || align="right" | 202
+|-----
+| [[Montornès de Segarra]] || [[Segarra]] || align="right" | 105
+|-----
+| [[Montornès del Vallès]] || [[Vallès Oriental]] || align="right" | 14516
+|-----
+| [[Mont-ral]] || [[Alt Camp]] || align="right" | 179
+|-----
+| [[Mont-ras]] || [[Baix Empordà]] || align="right" | 1841
+|-----
+| [[Mont-roig del Camp]] || [[Baix Camp]] || align="right" | 9456
+|-----
+| [[Montseny]] || [[Vallès Oriental]] || align="right" | 299
+|-----
+| [[Móra d'Ebre]] || [[Ribera d'Ebre]]
+| align="right" | 5098
+|-----
+| [[Móra la Nova]] || [[Ribera d'Ebre]]
+| align="right" | 3216
+|-----
+| [[El Morell]] || [[Tarragonès]] || align="right" | 2704
+|-----
+| [[Morellàs i les Illes]] || [[Vallespir]] || align="right" | 2546
+|-----
+| [[La Morera de Montsant]] || [[Priorat]]
+| align="right" | 165
+|-----
+| [[Mosset]] || [[Conflent]] || align="right" | 293
+|-----
+| [[Muntanyola]] || [[Osona]] || align="right" | 464
+|-----
+| [[Mura]] || [[Bages]] || align="right" | 233
+|-----
+| [[Nalec]] || [[Urgell]] || align="right" | 102
+|-----
+| [[Naüja]] || [[Cerdanya]] || align="right" | 63
+|-----
+| [[Naut Aran]] || [[Val d'Aran]] || align="right" | 1732
+|-----
+| [[Navarcles]] || [[Bages]] || align="right" | 5723
+|-----
+| [[Navàs]] || [[Bages]] || align="right" | 5810
+|-----
+| [[Navata]] || [[Alt Empordà]] || align="right" | 980
+|-----
+| [[Navès]] || [[Solsonès]] || align="right" | 262
+|-----
+| [[Nefiac]] || [[Rosselló]] || align="right" | 943
+|-----
+| [[Noedes]] || [[Conflent]] || align="right" | 62
+|-----
+| [[La Nou de Berguedà]] || [[Berguedà]]
+| align="right" | 162
+|-----
+| [[La Nou de Gaià]] || [[Tarragonès]]
+| align="right" | 449
+|-----
+| [[Nulles]] || [[Alt Camp]] || align="right" | 382
+|-----
+| [[Nyer]] || [[Conflent]] || align="right" | 108
+|-----
+| [[Oceja]] || [[Cerdanya]] || align="right" | 1282
+|-----
+| [[Odèn]] || [[Solsonès]] || align="right" | 275
+|-----
+| [[Òdena]] || [[Anoia]] || align="right" | 3100
+|-----
+| [[Ogassa]] || [[Ripollès]] || align="right" | 265
+|-----
+| [[Olèrdola]] || [[Alt Penedès]] || align="right" | 3084
+|-----
+| [[Olesa de Bonesvalls]] || [[Alt Penedès]]
+| align="right" | 1506
+|-----
+| [[Olesa de Montserrat]] || [[Baix Llobregat]]
+| align="right" | 21714
+|-----
+| [[Oleta i Èvol]] || [[Conflent]] || align="right" | 345
+|-----
+| [[Oliana]] || [[Alt Urgell]] || align="right" | 1939
+|-----
+| [[Oliola]] || [[Noguera]] || align="right" | 246
+|-----
+| [[Olius]] || [[Solsonès]] || align="right" | 686
+|-----
+| [[Olivella]] || [[Garraf]] || align="right" | 2515
+|-----
+| [[Olost]] || [[Osona]] || align="right" | 1187
+|-----
+| [[Olot]] || [[Garrotxa]] || align="right" | 31932
+|-----
+| [[Les Oluges]] || [[Segarra]] || align="right" | 174
+|-----
+| [[Olvan]] || [[Berguedà]] || align="right" | 922
+|-----
+| [[Els Omellons]] || [[Garrigues]] || align="right" | 252
+|-----
+| [[Els Omells de na Gaia]] || [[Urgell]]
+| align="right" | 159
+|-----
+| [[Oms]] || [[Rosselló]] || align="right" | 268
+|-----
+| [[Òpol i Perellós]] || [[Rosselló]] || align="right" | 726
+|-----
+| [[Orbanyà]] || [[Conflent]] || align="right" | 28
+|-----
+| [[Ordis]] || [[Alt Empordà]] || align="right" | 353
+|-----
+| [[Orellà]] || [[Conflent]] || align="right" | 15
+|-----
+| [[Organyà]] || [[Alt Urgell]] || align="right" | 961
+|-----
+| [[Orís]] || [[Osona]] || align="right" | 284
+|-----
+| [[Oristà]] || [[Osona]] || align="right" | 593
+|-----
+| [[Orpí]] || [[Anoia]] || align="right" | 190
+|-----
+| [[Òrrius]] || [[Maresme]] || align="right" | 295
+|-----
+| [[Os de Balaguer]] || [[Noguera]] || align="right" | 924
+|-----
+| [[Osor]] || [[Selva]] || align="right" | 390
+|-----
+| [[Ossó de Sió]] || [[Urgell]] || align="right" | 236
+|-----
+| [[Paçà]] || [[Rosselló]] || align="right" | 569
+|-----
+| [[Pacs del Penedès]] || [[Alt Penedès]]
+| align="right" | 787
+|-----
+| [[Palafolls]] || [[Maresme]] || align="right" | 7583
+|-----
+| [[Palafrugell]] || [[Baix Empordà]] || align="right" | 21307
+|-----
+| [[Palamós]] || [[Baix Empordà]] || align="right" | 17197
+|-----
+| [[El Palau d'Anglesola]] || [[Pla d'Urgell]]
+| align="right" | 1883
+|-----
+| [[Palau de Cerdanya]] || [[Cerdanya]] || align="right" | 424
+|-----
+| [[Palau del Vidre]] || [[Rosselló]] || align="right" | 2117
+|-----
+| [[Palau de Santa Eulàlia]] || [[Alt Empordà]]
+| align="right" | 91
+|-----
+| [[Palau-sator]] || [[Baix Empordà]] || align="right" | 280
+|-----
+| [[Palau-saverdera]] || [[Alt Empordà]]
+| align="right" | 1197
+|-----
+| [[Palau-solità i Plegamans]] || [[Vallès Occidental]]
+| align="right" | 13310
+|-----
+| [[Els Pallaresos]] || [[Tarragonès]]
+| align="right" | 3346
+|-----
+| [[Pallejà]] || [[Baix Llobregat]] || align="right" | 10535
+|-----
+| [[La Palma de Cervelló]] || [[Baix Llobregat]]
+| align="right" | 2988
+|-----
+| [[La Palma d'Ebre]] || [[Ribera d'Ebre]]
+| align="right" | 398
+|-----
+| [[Palol de Revardit]] || [[Pla de l'Estany]]
+| align="right" | 429
+|-----
+| [[Pals]] || [[Baix Empordà]] || align="right" | 2400
+|-----
+| [[El Papiol]] || [[Baix Llobregat]] || align="right" | 3733
+|-----
+| [[Pardines]] || [[Ripollès]] || align="right" | 149
+|-----
+| [[Parets del Vallès]] || [[Vallès Oriental]]
+| align="right" | 16413
+|-----
+| [[Paretstortes]] || [[Rosselló]] || align="right" | 1403
+|-----
+| [[Parlavà]] || [[Baix Empordà]] || align="right" | 352
+|-----
+| [[Passanant i Belltall]] || [[Conca de Barberà]]
+| align="right" | 174
+|-----
+| [[Pau (Alt Empordà)|Pau]] || [[Alt Empordà]] || align="right" | 501
+|-----
+| [[Paüls]] || [[Baix Ebre]] || align="right" | 602
+|-----
+| [[Pedret i Marzà]] || [[Alt Empordà]]
+| align="right" | 154
+|-----
+| [[Penelles]] || [[Noguera]] || align="right" | 525
+|-----
+| [[La Pera]] || [[Baix Empordà]] || align="right" | 436
+|-----
+| [[Perafita]] || [[Osona]] || align="right" | 379
+|-----
+| [[Perafort]] || [[Tarragonès]] || align="right" | 901
+|-----
+| [[Peralada]] || [[Alt Empordà]] || align="right" | 1625
+|-----
+| [[Peramola]] || [[Alt Urgell]] || align="right" | 377
+|-----
+| [[El Perelló]] || [[Baix Ebre]] || align="right" | 2504
+|-----
+| [[Perpinyà]] || [[Rosselló]] || align="right" | 116700
+|-----
+| [[El Pertús]] || [[Vallespir]] || align="right" | 578
+|-----
+| [[Pesillà de la Ribera]] || [[Rosselló]] || align="right" | 2957
+|-----
+| [[Pi de Conflent]] || [[Conflent]] || align="right" | 107
+|-----
+| [[Pià]] || [[Rosselló]] || align="right" | 5120
+|-----
+| [[Piera]] || [[Anoia]] || align="right" | 12951
+|-----
+| [[Les Piles]] || [[Conca de Barberà]]
+| align="right" | 196
+|-----
+| [[Pineda de Mar]] || [[Maresme]] || align="right" | 25504
+|-----
+| [[El Pinell de Brai]] || [[Terra Alta]]
+| align="right" | 1112
+|-----
+| [[Pinell de Solsonès]] || [[Solsonès]]
+| align="right" | 204
+|-----
+| [[Pinós]] || [[Solsonès]] || align="right" | 322
+|-----
+| [[Pira]] || [[Conca de Barberà]] || align="right" | 475
+|-----
+| [[El Pla de Santa Maria]] || [[Alt Camp]]
+| align="right" | 2009
+|-----
+| [[El Pla del Penedès]] || [[Alt Penedès]]
+| align="right" | 931
+|-----
+| [[Planès]] || [[Cerdanya]] || align="right" | 27
+|-----
+| [[Les Planes d'Hostoles]] || [[Garrotxa]]
+| align="right" | 1798
+|-----
+| [[Planoles]] || [[Ripollès]] || align="right" | 281
+|-----
+| [[Els Plans de Sió]] || [[Segarra]] || align="right" | 570
+|-----
+| [[El Poal]] || [[Pla d'Urgell]] || align="right" | 660
+|-----
+| [[La Pobla de Cérvoles]] || [[Garrigues]]
+| align="right" | 250
+|-----
+| [[La Pobla de Claramunt]] || [[Anoia]]
+| align="right" | 2112
+|-----
+| [[La Pobla de Lillet]] || [[Berguedà]]
+| align="right" | 1327
+|----
+| [[La Pobla de Mafumet]] || [[Tarragonès]]
+| align="right" | 1465
+|-----
+| [[La Pobla de Massaluca]] || [[Terra Alta]]
+| align="right" | 407
+|-----
+| [[La Pobla de Montornès]] || [[Tarragonès]]
+| align="right" | 2339
+|-----
+| [[La Pobla de Segur]] || [[Pallars Jussà]]
+| align="right" | 3050
+|-----
+| [[Poboleda]] || [[Priorat]] || align="right" | 353
+|-----
+| [[Polinyà]] || [[Vallès Occidental]]
+| align="right" | 6764
+|-----
+| [[Pollestres]]|| [[Rosselló]] || align="right" | 3884
+|-----
+| [[El Pont d'Armentera]] || [[Alt Camp]]
+| align="right" | 580
+|-----
+| [[El Pont de Bar]] || [[Alt Urgell]]
+| align="right" | 193
+|-----
+| [[Pont de Molins]] || [[Alt Empordà]]
+| align="right" | 419
+|-----
+| [[El Pont de Suert]] || [[Alta Ribagorça]]
+| align="right" | 2317
+|-----
+| [[El Pont de Vilomara i Rocafort]] || [[Bages]]
+| align="right" | 3310
+|-----
+| [[Pontellà]] || [[Rosselló]] || align="right" | 1827
+|-----
+| [[Pontils]] || [[Conca de Barberà]] || align="right" | 139
+|-----
+| [[Pontons]] || [[Alt Penedès]] || align="right" | 498
+|-----
+| [[Pontós]] || [[Alt Empordà]] || align="right" | 217
+|-----
+| [[Ponts]] || [[Noguera]] || align="right" | 2567
+|-----
+| [[Porqueres]] || [[Pla de l'Estany]]
+| align="right" | 4154
+|-----
+| [[Porrera]] || [[Priorat]] || align="right" | 488
+|-----
+| [[El Port de la Selva]] || [[Alt Empordà]]
+| align="right" | 908
+|-----
+| [[Porta (Alta Cerdanya)|Porta]] || [[Cerdanya]] || align="right" | 98
+|-----
+| [[Portbou]] || [[Alt Empordà]] || align="right" | 1347
+|-----
+| [[Portè i Pimorent]] || [[Cerdanya]] || align="right" | 147
+|-----
+| [[La Portella]] || [[Segrià]] || align="right" | 796
+|-----
+| [[Portvendres]] || [[Rosselló]] || align="right" | 4579
+|-----
+| [[Prada]] || [[Conflent]] || align="right" | 5800
+|-----
+| [[Pradell de la Teixeta]] || [[Priorat]]
+| align="right" | 178
+|-----
+| [[Prades]] || [[Baix Camp]] || align="right" | 622
+|-----
+| [[Prat de Comte]] || [[Terra Alta]] || align="right" | 196
+|-----
+| [[El Prat de Llobregat]] || [[Baix Llobregat]]
+| align="right" | 63069
+|-----
+| [[Pratdip]] || [[Baix Camp]] || align="right" | 715
+|-----
+| [[Prats de Lluçanès]] || [[Osona]] || align="right" | 2753
+|-----
+| [[Prats de Molló i la Presta]] || [[Vallespir]] || align="right" | 1141
+|-----
+| [[Els Prats de Rei]] || [[Anoia]] || align="right" | 532
+|-----
+| [[Prats i Sansor]] || [[Cerdanya]] || align="right" | 226
+|-----
+| [[Preixana]] || [[Urgell]] || align="right" | 422
+|-----
+| [[Preixens]] || [[Noguera]] || align="right" | 514
+|-----
+| [[Premià de Dalt]] || [[Maresme]] || align="right" | 9890
+|-----
+| [[Premià de Mar]] || [[Maresme]] || align="right" | 27860
+|-----
+| [[Les Preses]] || [[Garrotxa]] || align="right" | 1692
+|-----
+| [[Prullans]] || [[Cerdanya]] || align="right" | 224
+|-----
+| [[Prunet i Bellpuig]] || [[Rosselló]] || align="right" | 68
+|-----
+| [[Puigbalador]] || [[Capcir]] || align="right" | 93
+|-----
+| [[Puigcerdà]] || [[Cerdanya]] || align="right" | 8859
+|-----
+| [[Puigdàlber]] || [[Alt Penedès]] || align="right" | 377
+|-----
+| [[Puiggròs]] || [[Garrigues]] || align="right" | 298
+|-----
+| [[Puigpelat]] || [[Alt Camp]] || align="right" | 829
+|-----
+| [[Puig-reig]] || [[Berguedà]] || align="right" | 4202
+|-----
+| [[Puigverd d'Agramunt]] || [[Urgell]]
+| align="right" | 268
+|-----
+| [[Puigverd de Lleida]] || [[Segrià]]
+| align="right" | 1259
+|-----
+| [[Pujalt]] || [[Anoia]] || align="right" | 203
+|-----
+| [[La Quar]] || [[Berguedà]] || align="right" | 61
+|-----
+| [[Quart]] || [[Gironès]] || align="right" | 2637
+|-----
+| [[Queixàs]] || [[Rosselló]] || align="right" | 101
+|-----
+| [[Queralbs]] || [[Ripollès]] || align="right" | 198
+|-----
+| [[Querol]] || [[Alt Camp]] || align="right" | 416
+|-----
+| [[Rabós]] || [[Alt Empordà]] || align="right" | 194
+|-----
+| [[Rajadell]] || [[Bages]] || align="right" | 467
+|-----
+| [[Ralleu]] || [[Conflent]] || align="right" | 16
+|-----
+| [[Rasquera]] || [[Ribera d'Ebre]] || align="right" | 934
+|-----
+| [[Real (Capcir)|Real]] || [[Capcir]] || align="right" | 31
+|-----
+| [[Regencós]] || [[Baix Empordà]] || align="right" | 304
+|-----
+| [[Reiners]] || [[Vallespir]] || align="right" | 1258
+|-----
+| [[Rellinars]] || [[Vallès Occidental]]
+| align="right" | 653
+|-----
+| [[Renau]] || [[Tarragonès]] || align="right" | 93
+|-----
+| [[Reus]] || [[Baix Camp]] || align="right" | 101767
+|-----
+| [[Rià i Cirac]] || [[Conflent]] || align="right" | 1126
+|-----
+| [[Rialp]] || [[Pallars Sobirà]] || align="right" | 649
+|-----
+| [[La Riba]] || [[Alt Camp]] || align="right" | 682
+|-----
+| [[Riba-roja d'Ebre]] || [[Ribera d'Ebre]]
+| align="right" | 1353
+|-----
+| [[Ribera d'Ondara]] || [[Segarra]] || align="right" | 476
+|-----
+| [[Ribera d'Urgellet]] || [[Alt Urgell]]
+| align="right" | 971
+|-----
+| [[Ribes de Freser]] || [[Ripollès]] || align="right" | 2017
+|-----
+| [[Ribesaltes]] || [[Rosselló]] || align="right" | 8496
+|-----
+| [[Riells i Viabrea]] || [[Selva]] || align="right" | 3238
+|-----
+| [[La Riera de Gaià]] || [[Tarragonès]]
+| align="right" | 1332
+|-----
+| [[Rigardà]] || [[Conflent]] || align="right" | 219
+|-----
+| [[Riner]] || [[Solsonès]] || align="right" | 274
+|-----
+| [[Ripoll]] || [[Ripollès]] || align="right" | 10832
+|-----
+| [[Ripollet]] || [[Vallès Occidental]]
+| align="right" | 35427
+|-----
+| [[Riu de Cerdanya]] || [[Cerdanya]] || align="right" | 94
+|-----
+| [[Riudarenes]] || [[Selva]] || align="right" | 1761
+|-----
+| [[Riudaura]] || [[Garrotxa]] || align="right" | 417
+|-----
+| [[Riudecanyes]] || [[Baix Camp]] || align="right" | 878
+|-----
+| [[Riudecols]] || [[Baix Camp]] || align="right" | 1133
+|-----
+| [[Riudellots de la Selva]] || [[Selva]]
+| align="right" | 1849
+|-----
+| [[Riudoms]] || [[Baix Camp]] || align="right" | 5925
+|-----
+| [[Riumors]] || [[Alt Empordà]] || align="right" | 172
+|-----
+| [[La Roca d'Albera]] || [[Rosselló]] || align="right" | 1941
+|-----
+| [[La Roca del Vallès]] || [[Vallès Oriental]]
+| align="right" | 9418
+|-----
+| [[Rocafort de Queralt]] || [[Conca de Barberà]]
+| align="right" | 264
+|-----
+| [[Roda de Barà]] || [[Tarragonès]] || align="right" | 5196
+|-----
+| [[Roda de Ter]] || [[Osona]] || align="right" | 5535
+|-----
+| [[Rodès]] || [[Conflent]] || align="right" | 509
+|-----
+| [[Rodonyà]] || [[Alt Camp]] || align="right" | 474
+|-----
+| [[Roquetes]] || [[Baix Ebre]] || align="right" | 7444
+|-----
+| [[Roses]] || [[Alt Empordà]] || align="right" | 17173
+|-----
+| [[Rosselló (Segrià)|Rosselló]] || [[Segrià]] || align="right" | 2478
+|-----
+| [[El Rourell]] || [[Alt Camp]] || align="right" | 354
+|-----
+| [[Rubí]] || [[Vallès Occidental]] || align="right" | 70006
+|-----
+| [[Rubió]] || [[Anoia]] || align="right" | 146
+|-----
+| [[Rupià]] || [[Baix Empordà]] || align="right" | 213
+|-----
+| [[Rupit i Pruit]] || [[Osona]] || align="right" | 339
+|-----
+| [[Sabadell]] || [[Vallès Occidental]]
+| align="right" | 200545
+|-----
+| [[Sagàs]] || [[Berguedà]] || align="right" | 143
+|-----
+| [[Salàs de Pallars]] || [[Pallars Jussà]]
+| align="right" | 330
+|-----
+| [[Saldes]] || [[Berguedà]] || align="right" | 326
+|-----
+| [[Salelles]] || [[Rosselló]] || align="right" | 4320
+|-----
+| [[Sales de Llierca]] || [[Garrotxa]]
+| align="right" | 128
+|-----
+| [[Sallagosa]] || [[Cerdanya]] || align="right" | 820
+|-----
+| [[Sallent]] || [[Bages]] || align="right" | 7146
+|-----
+| [[Salomó (Tarragonès)|Salomó]] || [[Tarragonès]] || align="right" | 439
+|-----
+| [[Salou]] || [[Tarragonès]] || align="right" | 22162
+|-----
+| [[Salses]] || [[Rosselló]] || align="right" | 2750
+|-----
+| [[Salt]] || [[Gironès]] || align="right" | 28017
+|-----
+| [[Sanaüja]] || [[Segarra]] || align="right" | 448
+|-----
+| [[Sant Adrià de Besòs]] || [[Barcelonès]]
+| align="right" | 32585
+|-----
+| [[Sant Agustí de Lluçanès]] || [[Osona]]
+| align="right" | 107
+|-----
+| [[Sant Andreu de la Barca]] || [[Baix Llobregat]]
+| align="right" | 25383
+|-----
+| [[Sant Andreu de Llavaneres]] || [[Maresme]]
+| align="right" | 9463
+|-----
+| [[Sant Andreu de Sureda]] || [[Rosselló]] || align="right" | 2674
+|-----
+| [[Sant Andreu Salou]] || [[Gironès]]
+| align="right" | 156
+|-----
+| [[Sant Aniol de Finestres]] || [[Garrotxa]]
+| align="right" | 289
+|-----
+| [[Sant Antoni de Vilamajor]] || [[Vallès Oriental]]
+| align="right" | 4877
+|-----
+| [[Sant Bartomeu del Grau]] || [[Osona]]
+| align="right" | 1001
+|-----
+| [[Sant Boi de Llobregat]] || [[Baix Llobregat]]
+| align="right" | 81368
+|-----
+| [[Sant Boi de Lluçanès]] || [[Osona]]
+| align="right" | 575
+|-----
+| [[Sant Carles de la Ràpita]] || [[Montsià]]
+| align="right" | 13488
+|-----
+| [[Sant Cebrià de Rosselló]] || [[Rosselló]] || align="right" | 8573
+|-----
+| [[Sant Cebrià de Vallalta]] || [[Maresme]]
+| align="right" | 2873
+|-----
+| [[Sant Celoni]] || [[Vallès Oriental]]
+| align="right" | 16056
+|----
+| [[Sant Climent de Llobregat]] || [[Baix Llobregat]]
+| align="right" | 3516
+|-----
+| [[Sant Climent Sescebes]] || [[Alt Empordà]]
+| align="right" | 482
+|-----
+| [[Sant Cugat del Vallès]] || [[Vallès Occidental]]
+| align="right" | 73774
+|-----
+| [[Sant Cugat Sesgarrigues]] || [[Alt Penedès]]
+| align="right" | 890
+|-----
+| [[Sant Esteve de la Sarga]] || [[Pallars Jussà]]
+| align="right" | 155
+|-----
+| [[Sant Esteve del Monestir]] || [[Rosselló]] || align="right" | 11066
+|-----
+| [[Sant Esteve de Palautordera]] || [[Vallès Oriental]]
+| align="right" | 2079
+|-----
+| [[Sant Esteve Sesrovires]] || [[Baix Llobregat]]
+| align="right" | 6590
+|-----
+| [[Sant Feliu d'Amunt]] || [[Rosselló]] || align="right" | 654
+|-----
+| [[Sant Feliu d'Avall]] || [[Rosselló]] || align="right" | 2160
+|-----
+| [[Sant Feliu de Buixalleu]] || [[Selva]]
+| align="right" | 756
+|-----
+| [[Sant Feliu de Codines]] || [[Vallès Oriental]]
+| align="right" | 5412
+|-----
+| [[Sant Feliu de Guíxols]] || [[Baix Empordà]]
+| align="right" | 20867
+|-----
+| [[Sant Feliu de Llobregat]] || [[Baix Llobregat]]
+| align="right" | 42486
+|-----
+| [[Sant Feliu de Pallerols]] || [[Garrotxa]]
+| align="right" | 1272
+|-----
+| [[Sant Feliu Sasserra]] || [[Bages]]
+| align="right" | 622
+|-----
+| [[Sant Ferriol]] || [[Garrotxa]] || align="right" | 194
+|-----
+| [[Sant Fost de Campsentelles]] || [[Vallès Oriental]]
+| align="right" | 7409
+|-----
+| [[Sant Fruitós de Bages]] || [[Bages]]
+| align="right" | 7199
+|-----
+| [[Sant Genís de Fontanes]] || [[Rosselló]] || align="right" | 2419
+|-----
+| [[Sant Gregori]] || [[Gironès]] || align="right" | 2951
+|-----
+| [[Sant Guim de Freixenet]] || [[Segarra]]
+| align="right" | 1057
+|-----
+| [[Sant Guim de la Plana]] || [[Segarra]]
+| align="right" | 199
+|-----
+| [[Sant Hilari Sacalm]] || [[Selva]] || align="right" | 5385
+|-----
+| [[Sant Hipòlit de la Salanca]] || [[Rosselló]] || align="right" | 1849
+|-----
+| [[Sant Hipòlit de Voltregà]] || [[Osona]]
+| align="right" | 3319
+|-----
+| [[Sant Iscle de Vallalta]] || [[Maresme]]
+| align="right" | 1166
+|-----
+| [[Sant Jaume de Frontanyà]] || [[Berguedà]]
+| align="right" | 32
+|-----
+| [[Sant Jaume de Llierca]] || [[Garrotxa]]
+| align="right" | 815
+|-----
+| [[Sant Jaume dels Domenys]] || [[Baix Penedès]]
+| align="right" | 1998
+|-----
+| [[Sant Jaume d'Enveja]] || [[Montsià]]
+| align="right" | 3368
+|-----
+| [[Sant Joan la Cella]] || [[Rosselló]] || align="right" | 595
+|-----
+| [[Sant Joan de les Abadesses]] || [[Ripollès]]
+| align="right" | 3565
+|-----
+| [[Sant Joan de Mollet]] || [[Gironès]]
+| align="right" | 487
+|-----
+| [[Sant Joan de Pladecorts]] || [[Vallespir]] || align="right" | 1775
+|-----
+| [[Sant Joan de Vilatorrada]] || [[Bages]]
+| align="right" | 10362
+|-----
+| [[Sant Joan Despí]] || [[Baix Llobregat]]
+| align="right" | 31485
+|-----
+| [[Sant Joan les Fonts]] || [[Garrotxa]]
+| align="right" | 2652
+|-----
+| [[Sant Jordi Desvalls]] || [[Gironès]]
+| align="right" | 632
+|-----
+| [[Sant Julià de Cerdanyola]] || [[Berguedà]]
+| align="right" | 259
+|-----
+| [[Sant Julià de Ramis]] || [[Gironès]]
+| align="right" | 2656
+|-----
+| [[Sant Julià de Vilatorta]] || [[Osona]]
+| align="right" | 2809
+|-----
+| [[Sant Julià del Llor i Bonmatí]] || [[Selva]]
+| align="right" | 1093
+|-----
+| [[Sant Just Desvern]] || [[Baix Llobregat]]
+| align="right" | 15327
+|-----
+| [[Sant Llorenç de Cerdans]] || [[Vallespir]] || align="right" | 1267
+|-----
+| [[Sant Llorenç de la Muga]] || [[Alt Empordà]]
+| align="right" | 196
+|-----
+| [[Sant Llorenç de la Salanca]] || [[Rosselló]] || align="right" | 8224
+|-----
+| [[Sant Llorenç de Morunys]] || [[Solsonès]]
+| align="right" | 950
+|-----
+| [[Sant Llorenç d'Hortons]] || [[Alt Penedès]]
+| align="right" | 2126
+|-----
+| [[Sant Llorenç Savall]] || [[Vallès Occidental]]
+| align="right" | 2271
+|-----
+| [[Sant Marçal]] || [[Rosselló]] || align="right" | 85
+|-----
+| [[Sant Martí d'Albars]] || [[Osona]]
+| align="right" | 114
+|-----
+| [[Sant Martí de Centelles]] || [[Osona]]
+| align="right" | 907
+|-----
+| [[Sant Martí de Llémena]] || [[Gironès]]
+| align="right" | 520
+|-----
+| [[Sant Martí de Riucorb]] || [[Urgell]]
+| align="right" | 709
+|-----
+| [[Sant Martí de Tous]] || [[Anoia]] || align="right" | 1101
+|-----
+| [[Sant Martí Sarroca]] || [[Alt Penedès]]
+| align="right" | 2849
+|-----
+| [[Sant Martí Sesgueioles]] || [[Anoia]]
+| align="right" | 361
+|-----
+| [[Sant Martí Vell]] || [[Gironès]] || align="right" | 209
+|-----
+| [[Sant Mateu de Bages]] || [[Bages]]
+| align="right" | 661
+|-----
+| [[Sant Miquel de Campmajor]] || [[Pla de l'Estany]]
+| align="right" | 218
+|-----
+| [[Sant Miquel de Fluvià]] || [[Alt Empordà]]
+| align="right" | 671
+|-----
+| [[Sant Miquel de Llotes]] || [[Rosselló]] || align="right" | 269
+|-----
+| [[Sant Mori]] || [[Alt Empordà]] || align="right" | 164
+|-----
+| [[Sant Nazari de Rosselló]] || [[Rosselló]] || align="right" | 2319
+|-----
+| [[Sant Pau de Segúries]] || [[Ripollès]]
+| align="right" | 666
+|-----
+| [[Sant Pere dels Forcats]] || [[Cerdanya]] || align="right" | 213
+|-----
+| [[Sant Pere de Ribes]] || [[Garraf]]
+| align="right" | 26859
+|-----
+| [[Sant Pere de Riudebitlles]] || [[Alt Penedès]]
+| align="right" | 2246
+|-----
+| [[Sant Pere de Torelló]] || [[Osona]]
+| align="right" | 2264
+|-----
+| [[Sant Pere de Vilamajor]] || [[Vallès Oriental]]
+| align="right" | 3578
+|-----
+| [[Sant Pere Pescador]] || [[Alt Empordà]]
+| align="right" | 1804
+|-----
+| [[Sant Pere Sallavinera]] || [[Anoia]]
+| align="right" | 171
+|-----
+| [[Sant Pol de Mar]] || [[Maresme]] || align="right" | 4773
+|-----
+| [[Sant Quintí de Mediona]] || [[Alt Penedès]]
+| align="right" | 2039
+|-----
+| [[Sant Quirze de Besora]] || [[Osona]]
+| align="right" | 2069
+|-----
+| [[Sant Quirze del Vallès]] || [[Vallès Occidental]]
+| align="right" | 17138
+|-----
+| [[Sant Quirze Safaja]] || [[Vallès Oriental]]
+| align="right" | 579
+|-----
+| [[Sant Ramon]] || [[Segarra]] || align="right" | 565
+|-----
+| [[Sant Sadurní d'Anoia]] || [[Alt Penedès]]
+| align="right" | 11617
+|-----
+| [[Sant Sadurní d'Osormort]] || [[Osona]]
+| align="right" | 89
+|-----
+| [[Sant Salvador de Guardiola]] || [[Bages]]
+| align="right" | 2863
+|-----
+| [[Sant Vicenç de Castellet]] || [[Bages]]
+| align="right" | 7835
+|-----
+| [[Sant Vicenç de Montalt]] || [[Maresme]]
+| align="right" | 5127
+|-----
+| [[Sant Vicenç de Torelló]] || [[Osona]]
+| align="right" | 1911
+|-----
+| [[Sant Vicenç dels Horts]] || [[Baix Llobregat]]
+| align="right" | 27019
+|-----
+| [[Santa Bàrbara]] || [[Montsià]] || align="right" | 3715
+|-----
+| [[Santa Cecília de Voltregà]] || [[Osona]]
+| align="right" | 199
+|-----
+| [[Santa Coloma de Cervelló]] || [[Baix Llobregat]]
+| align="right" | 7314
+|-----
+| [[Santa Coloma de Farners]] || [[Selva]]
+| align="right" | 10565
+|-----
+| [[Santa Coloma de Gramenet]] || [[Barcelonès]]
+| align="right" | 119056
+|-----
+| [[Santa Coloma de Queralt]] || [[Conca de Barberà]]
+| align="right" | 3035
+|-----
+| [[Santa Coloma de Tuïr]] || [[Rosselló]] || align="right" | 101
+|-----
+| [[Santa Cristina d'Aro]] || [[Baix Empordà]]
+| align="right" | 4214
+|-----
+| [[Santa Eugènia de Berga]] || [[Osona]]
+| align="right" | 2178
+|-----
+| [[Santa Eulàlia de Riuprimer]] || [[Osona]]
+| align="right" | 926
+|-----
+| [[Santa Eulàlia de Ronçana]] || [[Vallès Oriental]]
+| align="right" | 6111
+|-----
+| [[Santa Fe del Penedès]] || [[Alt Penedès]]
+| align="right" | 350
+|-----
+| [[Santa Llocaia]] || [[Cerdanya]] || align="right" | 140
+|-----
+| [[Santa Llogaia d'Àlguema]] || [[Alt Empordà]]
+| align="right" | 313
+|-----
+| [[Santa Margarida de Montbui]] || [[Anoia]]
+| align="right" | 9715
+|-----
+| [[Santa Margarida i els Monjos]] || [[Alt Penedès]]
+| align="right" | 6221
+|-----
+| [[Santa Maria de Besora]] || [[Osona]]
+| align="right" | 187
+|-----
+| [[Santa Maria de Corcó]] || [[Osona]]
+| align="right" | 2239
+|-----
+| [[Santa Maria de Martorelles]] || [[Vallès Oriental]]
+| align="right" | 788
+|-----
+| [[Santa Maria de Merlès]] || [[Berguedà]]
+| align="right" | 152
+|-----
+| [[Santa Maria de Miralles]] || [[Anoia]]
+| align="right" | 128
+|-----
+| [[Santa Maria de Palautordera]] || [[Vallès Oriental]]
+| align="right" | 8099
+|-----
+| [[Santa Maria d'Oló]] || [[Bages]] || align="right" | 1072
+|-----
+| [[Santa Maria la Mar]] || [[Rosselló]] || align="right" | 3842
+|-----
+| [[Santa Oliva]] || [[Baix Penedès]] || align="right" | 2907
+|-----
+| [[Santa Pau]] || [[Garrotxa]] || align="right" | 1565
+|-----
+| [[Santa Perpètua de Mogoda]] || [[Vallès Occidental]]
+| align="right" | 21644
+|-----
+| [[Santa Susanna]] || [[Maresme]] || align="right" | 2939
+|-----
+| [[Santpedor]] || [[Bages]] || align="right" | 6263
+|-----
+| [[Saorra]] || [[Conflent]] || align="right" | 347
+|-----
+| [[Sarral]] || [[Conca de Barberà]] || align="right" | 1596
+|-----
+| [[Sarrià de Ter]] || [[Gironès]] || align="right" | 4065
+|-----
+| [[Sarroca de Bellera]] || [[Pallars Jussà]]
+| align="right" | 142
+|-----
+| [[Sarroca de Lleida]] || [[Segrià]] || align="right" | 446
+|-----
+| [[Saus, Camallera i Llampaies]] || [[Alt Empordà]]
+| align="right" | 737
+|-----
+| [[Sautó]] || [[Conflent]] || align="right" | 107
+|-----
+| [[Savallà del Comtat]] || [[Conca de Barberà]]
+| align="right" | 72
+|-----
+| [[La Secuita]] || [[Tarragonès]] || align="right" | 1269
+|-----
+| [[La Selva de Mar]] || [[Alt Empordà]]
+| align="right" | 223
+|-----
+| [[La Selva del Camp]] || [[Baix Camp]]
+| align="right" | 4983
+|-----
+| [[Senan]] || [[Conca de Barberà]] || align="right" | 46
+|-----
+| [[La Sénia]] || [[Montsià]] || align="right" | 5976
+|-----
+| [[Senterada]] || [[Pallars Jussà]] || align="right" | 126
+|-----
+| [[La Sentiu de Sió]] || [[Noguera]] || align="right" | 478
+|-----
+| [[Sentmenat]] || [[Vallès Occidental]]
+| align="right" | 7209
+|-----
+| [[Serdinyà]] || [[Conflent]] || align="right" | 233
+|-----
+| [[Serinyà]] || [[Pla de l'Estany]] || align="right" | 1045
+|-----
+| [[Seròs]] || [[Segrià]] || align="right" | 1909
+|-----
+| [[Serra de Daró]] || [[Baix Empordà]]
+| align="right" | 184
+|-----
+| [[Serrallonga (Vallespir)|Serrallonga]] || [[Vallespir]] || align="right" | 262
+|-----
+| [[Setcases]] || [[Ripollès]] || align="right" | 181
+|-----
+| [[La Seu d'Urgell]] || [[Alt Urgell]]
+| align="right" | 12533
+|-----
+| [[Seva]] || [[Osona]] || align="right" | 3099
+|-----
+| [[Sidamon]] || [[Pla d'Urgell]] || align="right" | 688
+|-----
+| [[Sils]] || [[Selva]] || align="right" | 4126
+|-----
+| [[Sitges]] || [[Garraf]] || align="right" | 25642
+|-----
+| [[Siurana]] || [[Alt Empordà]] || align="right" | 181
+|-----
+| [[Soanyes]] || [[Conflent]] || align="right" | 27
+|-----
+| [[Sobremunt]] || [[Osona]] || align="right" | 102
+|-----
+| [[El Soler]] || [[Rosselló]] || align="right" | 6928
+|-----
+| [[El Soleràs]] || [[Garrigues]] || align="right" | 382
+|-----
+| [[Solivella]] || [[Conca de Barberà]]
+| align="right" | 630
+|-----
+| [[Solsona]] || [[Solsonès]] || align="right" | 8823
+|-----
+| [[Sora]] || [[Osona]] || align="right" | 193
+|-----
+| [[Soriguera]] || [[Pallars Sobirà]] || align="right" | 337
+|-----
+| [[Sort]] || [[Pallars Sobirà]] || align="right" | 2238
+|-----
+| [[Soses]] || [[Segrià]] || align="right" | 1643
+|-----
+| [[Subirats]] || [[Alt Penedès]] || align="right" | 2943
+|-----
+| [[Sudanell]] || [[Segrià]] || align="right" | 805
+|-----
+| [[Sunyer]] || [[Segrià]] || align="right" | 283
+|-----
+| [[Sureda (Rosselló)|Sureda]] || [[Rosselló]] || align="right" | 2926
+|-----
+| [[Súria]] || [[Bages]] || align="right" | 6290
+|-----
+| [[Susqueda]] || [[Selva]] || align="right" | 112
+|-----
+| [[Tagamanent]] || [[Vallès Oriental]]
+| align="right" | 282
+|-----
+| [[Talamanca]] || [[Bages]] || align="right" | 134
+|-----
+| [[Talarn]] || [[Pallars Jussà]] || align="right" | 339
+|-----
+| [[Talavera]] || [[Segarra]] || align="right" | 303
+|-----
+| [[La Tallada d'Empordà]] || [[Baix Empordà]]
+| align="right" | 367
+|-----
+| [[Talteüll]] || [[Rosselló]] || align="right" | 903
+|-----
+| [[Taradell]] || [[Osona]] || align="right" | 5764
+|-----
+| [[Tarerac]] || [[Conflent]] || align="right" | 38
+|-----
+| [[Targasona]] || [[Cerdanya]] || align="right" | 203
+|-----
+| [[Tarragona]] || [[Tarragonès]] || align="right" | 131158
+|-----
+| [[Tàrrega]] || [[Urgell]] || align="right" | 15155
+|-----
+| [[Tarrés]] || [[Garrigues]] || align="right" | 111
+|-----
+| [[Tarroja de Segarra]] || [[Segarra]]
+| align="right" | 175
+|-----
+| [[Taurinyà]] || [[Conflent]] || align="right" | 307
+|-----
+| [[Tavèrnoles]] || [[Osona]] || align="right" | 300
+|-----
+| [[Tavertet]] || [[Osona]] || align="right" | 155
+|-----
+| [[El Tec]] || [[Vallespir]] || align="right" | 84
+|-----
+| [[Teià]] || [[Maresme]] || align="right" | 5867
+|-----
+| [[Tellet]] || [[Rosselló]] || align="right" | 81
+|-----
+| [[Térmens]] || [[Noguera]] || align="right" | 1531
+|-----
+| [[Terrades]] || [[Alt Empordà]] || align="right" | 146
+|-----
+| [[Terrassa]] || [[Vallès Occidental]]
+| align="right" | 199817
+|-----
+| [[Terrats]] || [[Rosselló]] || align="right" | 575
+|-----
+| [[Tesà]] || [[Rosselló]] || align="right" | 1360
+|-----
+| [[Teulís]] || [[Rosselló]] || align="right" | 45
+|-----
+| [[Tiana]] || [[Maresme]] || align="right" | 7305
+|-----
+| [[Tírvia]] || [[Pallars Sobirà]] || align="right" | 120
+|-----
+| [[Tiurana]] || [[Noguera]] || align="right" | 48
+|-----
+| [[Tivenys]] || [[Baix Ebre]] || align="right" | 916
+|-----
+| [[Tivissa]] || [[Ribera d'Ebre]] || align="right" | 1788
+|-----
+| [[Toès i Entrevalls]] || [[Conflent]] || align="right" | 41
+|-----
+| [[Toluges]] || [[Rosselló]] || align="right" | 5743
+|-----
+| [[Tona (Osona)|Tona]] || [[Osona]] || align="right" | 7328
+|-----
+| [[La Tor de Querol]] || [[Cerdanya]] || align="right" | 367
+|-----
+| [[Torà]] || [[Segarra]] || align="right" | 1327
+|-----
+| [[Tordera]] || [[Maresme]] || align="right" | 13420
+|-----
+| [[Torderes]] || [[Rosselló]] || align="right" | 145
+|-----
+| [[Torelló]] || [[Osona]] || align="right" | 13269
+|-----
+| [[Els Torms]] || [[Garrigues]] || align="right" | 189
+|-----
+| [[Tornabous]] || [[Urgell]] || align="right" | 823
+|-----
+| [[La Torre de Cabdella]] || [[Pallars Jussà]]
+| align="right" | 722
+|-----
+| [[La Torre de Claramunt]] || [[Anoia]]
+| align="right" | 3298
+|-----
+| [[La Torre d'Elna]] || [[Rosselló]] || align="right" | 1926
+|-----
+| [[La Torre de Fontaubella]] || [[Priorat]]
+| align="right" | 134
+|-----
+| [[La Torre de l'Espanyol]] || [[Ribera d'Ebre]]
+| align="right" | 714
+|-----
+| [[Torrebesses]] || [[Segrià]] || align="right" | 305
+|-----
+| [[Torredembarra]] || [[Tarragonès]] || align="right" | 14044
+|-----
+| [[Torrefarrera]] || [[Segrià]] || align="right" | 3051
+|-----
+| [[Torrefeta i Florejacs]] || [[Segarra]]
+| align="right" | 650
+|-----
+| [[Torregrossa]] || [[Pla d'Urgell]] || align="right" | 2302
+|-----
+| [[Torrelameu]] || [[Noguera]] || align="right" | 628
+|-----
+| [[Torrelavit]] || [[Alt Penedès]] || align="right" | 1232
+|-----
+| [[Torrelles de Foix]] || [[Alt Penedès]]
+| align="right" | 2252
+|-----
+| [[Torrelles de Llobregat]] || [[Baix Llobregat]]
+| align="right" | 4861
+|-----
+| [[Torrelles de la Salanca]] || [[Rosselló]] || align="right" | 2956
+|-----
+| [[Torrent (Baix Empordà)|Torrent]] || [[Baix Empordà]]
+| align="right" | 190
+|-----
+| [[Torres de Segre]] || [[Segrià]] || align="right" | 2054
+|-----
+| [[Torre-serona]] || [[Segrià]] || align="right" | 341
+|-----
+| [[Torroella de Fluvià]] || [[Alt Empordà]]
+| align="right" | 460
+|-----
+| [[Torroella de Montgrí]] || [[Baix Empordà]]
+| align="right" | 10588
+|-----
+| [[Torroja del Priorat]] || [[Priorat]]
+| align="right" | 142
+|-----
+| [[Tortellà]] || [[Garrotxa]] || align="right" | 729
+|-----
+| [[Tortosa]] || [[Baix Ebre]] || align="right" | 34266
+|-----
+| [[Toses]] || [[Ripollès]] || align="right" | 160
+|-----
+| [[Tossa de Mar]] || [[Selva]] || align="right" | 5414
+|-----
+| [[Tremp]] || [[Pallars Jussà]] || align="right" | 5401
+|-----
+| [[Tresserra]] || [[Rosselló]] || align="right" | 686
+|-----
+| [[Trullars]] || [[Rosselló]] || align="right" | 1424
+|-----
+| [[Tuïr]] || [[Rosselló]] || align="right" | 7427
+|-----
+| [[Ullà]] || [[Baix Empordà]] || align="right" | 1039
+|-----
+| [[Ullastrell]] || [[Vallès Occidental]]
+| align="right" | 1529
+|-----
+| [[Ullastret]] || [[Baix Empordà]] || align="right" | 233
+|-----
+| [[Ulldecona]] || [[Montsià]] || align="right" | 6229
+|-----
+| [[Ulldemolins]] || [[Priorat]] || align="right" | 508
+|-----
+| [[Ultramort]] || [[Baix Empordà]] || align="right" | 200
+|-----
+| [[Ur (Alta Cerdanya)|Ur]] || [[Cerdanya]] || align="right" | 308
+|-----
+| [[Urús]] || [[Cerdanya]] || align="right" | 200
+|-----
+| [[Vacarisses]] || [[Vallès Occidental]]
+| align="right" | 5094
+|-----
+| [[La Vajol]] || [[Alt Empordà]] || align="right" | 101
+|-----
+| [[La Vall de Bianya]] || [[Garrotxa]]
+| align="right" | 1256
+|-----
+| [[La Vall de Boí]] || [[Alta Ribagorça]]
+| align="right" | 1079
+|-----
+| [[Vall de Cardós]] || [[Pallars Sobirà]]
+| align="right" | 393
+|-----
+| [[La Vall d'en Bas]] || [[Garrotxa]]
+| align="right" | 2650
+|-----
+| [[Vallbona d'Anoia]] || [[Anoia]] || align="right" | 1311
+|-----
+| [[Vallbona de les Monges]] || [[Urgell]]
+| align="right" | 247
+|-----
+| [[Vallcebollera]] || [[Cerdanya]] || align="right" | 49
+|-----
+| [[Vallcebre]] || [[Berguedà]] || align="right" | 276
+|-----
+| [[Vallclara]] || [[Conca de Barberà]]
+| align="right" | 108
+|-----
+| [[Vallestàvia]] || [[Conflent]] || align="right" | 58
+|-----
+| [[Vallfogona de Balaguer]] || [[Noguera]]
+| align="right" | 1601
+|-----
+| [[Vallfogona de Ripollès]] || [[Ripollès]]
+| align="right" | 206
+|-----
+| [[Vallfogona de Riucorb]] || [[Conca de Barberà]]
+| align="right" | 159
+|-----
+| [[Vallgorguina]] || [[Vallès Oriental]]
+| align="right" | 2016
+|-----
+| [[Vallirana]] || [[Baix Llobregat]] || align="right" | 12928
+|-----
+| [[Vall-llobrega]] || [[Baix Empordà]]
+| align="right" | 730
+|-----
+| [[Vallmanya]] || [[Conflent]] || align="right" | 18
+|-----
+| [[Vallmoll]] || [[Alt Camp]] || align="right" | 1469
+|-----
+| [[Vallromanes]] || [[Vallès Oriental]]
+| align="right" | 2094
+|-----
+| [[Valls]] || [[Alt Camp]] || align="right" | 23315
+|-----
+| [[Les Valls d'Aguilar]] || [[Alt Urgell]]
+| align="right" | 314
+|-----
+| [[Les Valls de Valira]] || [[Alt Urgell]]
+| align="right" | 744
+|-----
+| [[Vandellòs i l'Hospitalet de l'Infant]]
+| [[Baix Camp]] || align="right" | 5134
+|-----
+| [[La Vansa i Fórnols]] || [[Alt Urgell]]
+| align="right" | 196
+|-----
+| [[Veciana]] || [[Anoia]] || align="right" | 167
+|-----
+| [[El Vendrell]] || [[Baix Penedès]] || align="right" | 31953
+|-----
+| [[Ventalló]] || [[Alt Empordà]] || align="right" | 698
+|-----
+| [[Verdú]] || [[Urgell]] || align="right" | 1027
+|-----
+| [[Verges]] || [[Baix Empordà]] || align="right" | 1179
+|-----
+| [[Vernet]] || [[Conflent]] || align="right" | 1440
+|-----
+| [[Vespella de Gaià]] || [[Tarragonès]]
+| align="right" | 339
+|-----
+| [[Vic]] || [[Osona]] || align="right" | 38747
+|-----
+| [[Vidrà]] || [[Osona]] || align="right" | 168
+|-----
+| [[Vidreres]] || [[Selva]] || align="right" | 6676
+|-----
+| [[Vielha e Mijaran]] || [[Val d'Aran]]
+| align="right" | 5239
+|-----
+| [[Vilabella]] || [[Alt Camp]] || align="right" | 787
+|-----
+| [[Vilabertran]] || [[Alt Empordà]] || align="right" | 843
+|-----
+| [[Vilablareix]] || [[Gironès]] || align="right" | 2213
+|-----
+| [[Vilada]] || [[Berguedà]] || align="right" | 516
+|-----
+| [[Viladamat]] || [[Alt Empordà]] || align="right" | 421
+|-----
+| [[Viladasens]] || [[Gironès]] || align="right" | 191
+|-----
+| [[Viladecans]] || [[Baix Llobregat]]
+| align="right" | 61168
+|-----
+| [[Viladecavalls]] || [[Vallès Occidental]]
+| align="right" | 7036
+|-----
+| [[Vilademuls]] || [[Pla de l'Estany]]
+| align="right" | 786
+|-----
+| [[Viladrau]] || [[Osona]] || align="right" | 999
+|-----
+| [[Vilafant]] || [[Alt Empordà]] || align="right" | 5013
+|-----
+| [[Vilafranca de Conflent]] || [[Conflent]] || align="right" | 225
+|-----
+| [[Vilafranca del Penedès]] || [[Alt Penedès]]
+| align="right" | 36687
+|-----
+| [[Vilagrassa]] || [[Urgell]] || align="right" | 467
+|-----
+| [[Vilajuïga]] || [[Alt Empordà]] || align="right" | 1072
+|-----
+| [[Vilalba dels Arcs]] || [[Terra Alta]]
+| align="right" | 720
+|-----
+| [[Vilalba Sasserra]] || [[Vallès Oriental]]
+| align="right" | 581
+|-----
+| [[Vilaller]] || [[Alta Ribagorça]] || align="right" | 678
+|-----
+| [[Vilallonga de la Salanca]] || [[Rosselló]] || align="right" | 2461
+|-----
+| [[Vilallonga de Ter]] || [[Ripollès]]
+| align="right" | 448
+|-----
+| [[Vilallonga del Camp]] || [[Tarragonès]]
+| align="right" | 1539
+|-----
+| [[Vilallonga dels Monts]] || [[Rosselló]] || align="right" | 1230
+|-----
+| [[Vilamacolum]] || [[Alt Empordà]] || align="right" | 280
+|-----
+| [[Vilamalla]] || [[Alt Empordà]] || align="right" | 1092
+|-----
+| [[Vilamaniscle]] || [[Alt Empordà]] || align="right" | 182
+|-----
+| [[Vilamòs]] || [[Val d'Aran]] || align="right" | 173
+|-----
+| [[Vilamulaca]] || [[Rosselló]] || align="right" | 1124
+|-----
+| [[Vilanant]] || [[Alt Empordà]] || align="right" | 333
+|-----
+| [[Vilanova de Bellpuig]] || [[Pla d'Urgell]]
+| align="right" | 1100
+|-----
+| [[Vilanova de la Barca]] || [[Segrià]]
+| align="right" | 1122
+|-----
+| [[Vilanova de la Ribera]] || [[Rosselló]] || align="right" | 1052
+|-----
+| [[Vilanova de l'Aguda]] || [[Noguera]]
+| align="right" | 246
+|-----
+| [[Vilanova de Meià]] || [[Noguera]] || align="right" | 432
+|-----
+| [[Vilanova de Prades]] || [[Conca de Barberà]]
+| align="right" | 149
+|-----
+| [[Vilanova de Raó]] || [[Rosselló]] || align="right" | 3767
+|-----
+| [[Vilanova de Sau]] || [[Osona]] || align="right" | 323
+|-----
+| [[Vilanova de Segrià]] || [[Segrià]]
+| align="right" | 809
+|-----
+| [[Vilanova del Camí]] || [[Anoia]] || align="right" | 12039
+|-----
+| [[Vilanova del Vallès]] || [[Vallès Oriental]]
+| align="right" | 3774
+|-----
+| [[Vilanova d'Escornalbou]] || [[Baix Camp]]
+| align="right" | 466
+|-----
+| [[Vilanova i la Geltrú]] || [[Garraf]]
+| align="right" | 62826
+|-----
+| [[Vilaplana]] || [[Baix Camp]] || align="right" | 584
+|-----
+| [[Vila-rodona]] || [[Alt Camp]] || align="right" | 1088
+|-----
+| [[Vila-sacra]] || [[Alt Empordà]] || align="right" | 485
+|-----
+| [[Vila-sana]] || [[Pla d'Urgell]] || align="right" | 611
+|-----
+| [[Vila-seca]] || [[Tarragonès]] || align="right" | 17305
+|-----
+| [[Vilassar de Dalt]] || [[Maresme]] || align="right" | 8334
+|-----
+| [[Vilassar de Mar]] || [[Maresme]] || align="right" | 19051
+|-----
+| [[Vilaür]] || [[Alt Empordà]] || align="right" | 139
+|-----
+| [[Vilaverd]] || [[Conca de Barberà]]
+| align="right" | 438
+|-----
+| [[La Vilella Alta]] || [[Priorat]] || align="right" | 121
+|-----
+| [[La Vilella Baixa]] || [[Priorat]] || align="right" | 198
+|-----
+| [[Vilobí del Penedès]] || [[Alt Penedès]]
+| align="right" | 1033
+|-----
+| [[Vilobí d'Onyar]] || [[Selva]] || align="right" | 2718
+|-----
+| [[Vilopriu]] || [[Baix Empordà]] || align="right" | 189
+|-----
+| [[El Vilosell]] || [[Garrigues]] || align="right" | 202
+|-----
+| [[Vimbodí i Poblet]] || [[Conca de Barberà]]
+| align="right" | 1052
+|-----
+| [[Vinaixa]] || [[Garrigues]] || align="right" | 604
+|-----
+| [[Vinçà]] || [[Conflent]] || align="right" | 1666
+|-----
+| [[Vinebre]] || [[Ribera d'Ebre]] || align="right" | 483
+|-----
+| [[Vingrau]] || [[Rosselló]] || align="right" | 530
+|-----
+| [[Vinyols i els Arcs]] || [[Baix Camp]]
+| align="right" | 1553
+|-----
+| [[Viver i Serrateix]] || [[Berguedà]]
+| align="right" | 194
+|-----
+| [[Vivers]] || [[Rosselló]] || align="right" | 128
+|-----
+| [[El Voló]] || [[Rosselló]] || align="right" | 4858
+|-----
+| [[Xerta]] || [[Baix Ebre]] || align="right" | 1278
+|}
+
+
+
+[[Usuari:Deulonder|Deulonder]] 18:12, abr 15, 2010 (UTC)
+
+
+==Referències==
+<references/>
+* Font: [http://www.municat.net/ Municipis i comarques de Catalunya]
+[[Categoria:Catalunya]]
