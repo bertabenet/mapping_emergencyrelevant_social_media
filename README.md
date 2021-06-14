@@ -6,6 +6,8 @@
 #### Year 2020-2021
 <img src="resources/upf_logo.png" alt="Universitat Pompeu Fabra, Escola d'Enginyeria" width="400"/>
 
+[Download paper](https://drive.google.com/uc?export=download&id=1fy_rW9fMuLHP4-LVPmgxlWrI2weW_0s7)
+
 ------------------------
 
 ## Pre-requisites
@@ -44,7 +46,7 @@ Due to its heavy size, the model used cannot be found in this repository. To dow
 
 ## Download model
 
-Download the model from [here](https://drive.google.com/uc?export=download&id=11DLldxP1Ll3vqX4CxrQMKF5VdiY11TdS)
+Download the model from [here](https://drive.google.com/uc?export=download&id=11DLldxP1Ll3vqX4CxrQMKF5VdiY11TdS).
 
 ## Visualization
 
