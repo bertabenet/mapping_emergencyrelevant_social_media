@@ -41,7 +41,7 @@ python source/classifier.py consume new_csv_file.csv  # consume mode
 ```
 
 Due to its heavy size, the model used cannot be found in this repository. To download it just click the following link below.
-_________
+
 
 ## Download model
 
