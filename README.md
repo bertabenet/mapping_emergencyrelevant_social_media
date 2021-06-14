@@ -46,3 +46,13 @@ Due to its heavy size, the model used cannot be found in this repository. To dow
 
 Download the model from [here](https://drive.google.com/uc?export=download&id=11DLldxP1Ll3vqX4CxrQMKF5VdiY11TdS)
 
+## Visualization
+
+The files for the visualization are in the [public](public) directory. The visualization will display itself by running the [index.html](public/index.html) file.
+
+______
+
+## Author's note
+
+The data currently on the repo corresponds to a sample of tweets extracted from the Gloria storm that occurred between January 19th 2020 to January 24th 2020.
+
