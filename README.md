@@ -23,7 +23,6 @@ The python libraries needed to run this repository are the following:
 
 To see the exact requirements see [requirements.txt](requirements.txt)
 
-__________
 
 ## Source code
 
