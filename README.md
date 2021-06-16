@@ -31,19 +31,19 @@ To see the exact requirements see [requirements.txt](requirements.txt).
 
 To be able to collect tweets, you need to create a Twitter Developer account. In order to do so, you must first go to the [Twitter Developer Portar](https://developer.twitter.com/en/portal/dashboard) and login with your [Twitter](https://twitter.com/home) account (in the case you do not have one you can create it by free). Then go to the **Projects & Apps** tab and below **Standalone Apps** click the button that says **+ Create App**.
 
-<img src="resources/images/screenshot 1.png" alt="Universitat Pompeu Fabra, Escola d'Enginyeria" width="800"> 
+<img src="resources/images/screenshot 1.png" alt="Screenshot 1" width="800"> 
 
 Then name the App with an understandable title.
 
-[SCREENSHOT 2]
+<img src="resources/images/screenshot 2.png" alt="Screenshot 2" width="800"> 
 
 When clicking the **Next** button, the app will be created and will appear on the App list.
 
-[SCREENSHOT 3]
+<img src="resources/images/screenshot 3.png" alt="Screenshot 3" width="800"> 
 
 Finally enter the App and click on the **Keys and Tokens** tab. By clicking **Regenerate** on the **Consumer Keys** and **Generate** on **Authentication Tokens** you will have access to the `consumer_key`, `consumer_secret`, `access_token_key` and `access_token_secret` that you will have to enter on the [config.ini](resources/config.ini) file. 
 
-[SCREENSHOT 4]
+<img src="resources/images/screenshot 4.png" alt="Screenshot 4" width="800"> 
 
 
 ### Redis
