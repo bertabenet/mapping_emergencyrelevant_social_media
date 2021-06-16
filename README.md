@@ -12,6 +12,8 @@
 
 ## Pre-requisites
 
+### Python
+
 The python libraries needed to run this repository are the following:
 
 - python-twitter
@@ -23,12 +25,14 @@ The python libraries needed to run this repository are the following:
 - simpletransformers
 - torch
 
-To see the exact requirements see [requirements.txt](requirements.txt)
+To see the exact requirements see [requirements.txt](requirements.txt).
+
+### Twitter API
 
 
 ## Source code
 
-The source code can be found on the [source](source) directory. In order to run the main pipeline the file [main.py](source/main.py) has to be run from the parent directory. The specifications for each file such as the API twitter keys or the persister batch size can be found and changed on the [config.ini](resources/config.ini) file. 
+The source code can be found on the [source](source) directory. In order to run the main pipeline the file [main.py](source/main.py) has to be run from the parent directory. The specifications (parameters) for each file such as the API twitter keys or the persister batch size can be found and changed on the [config.ini](resources/config.ini) file. 
 
 #### Call main pipeline
 ```
