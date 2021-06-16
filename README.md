@@ -52,18 +52,11 @@ Download the model from [here](https://drive.google.com/uc?export=download&id=11
 
 The files for the visualization are in the [public/](public) directory. The visualization will display itself by running the [index.html](public/index.html) file.
 
-The demo data found in [data/](data) and [public/data/](public/data) is a sample of 1411 tweets that were positively classified by our algorithm. These posts were provided by Lorini et al. (2019).
-
+The demo data found in [data/](data) and [public/data/](public/data) is a sample of 1411 tweets that were positively classified by our algorithm. These posts were provided by Lorini et al. (2019). These tweets' timestamps are between January 19th 2020 and January 24th 2020.
 
 ## Training sets
 
 The training set can found in [labeled\_training\_sets/](labeled_training_sets). Inside this folder there are 86 files that correspond to 21 extracted from the area of Catalonia and 63 coming from the area of Spain. The 2 remaning files which are [ca\_label.csv](labeled_training_sets/ca_label.csv) and [es\_label.csv](labeled_training_sets/es_label.csv) contain tweets in Catalan and Spanish, respectively, extracted during the Gloria storm and were provided by Vitiugin & Castillo (2019).
-
-______
-
-## Author's note
-
-The data currently on the repo corresponds to a sample of tweets extracted from the Gloria storm that occurred between January 19th 2020 to January 24th 2020.
 
 _____
 
