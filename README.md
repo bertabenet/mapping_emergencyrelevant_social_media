@@ -31,7 +31,7 @@ To see the exact requirements see [requirements.txt](requirements.txt).
 
 To be able to collect tweets, you need to create a Twitter Developer account. In order to do so, you must first go to the [Twitter Developer Portar](https://developer.twitter.com/en/portal/dashboard) and login with your [Twitter](https://twitter.com/home) account (in the case you do not have one you can create it by free). Then go to the **Projects & Apps** tab and below **Standalone Apps** click the button that says **+ Create App**.
 
-<img src="resources/images/screenshot 1.png" alt="Screenshot 1" width="800"> 
+<img src="resources/images/screenshot 1.png" alt="Screenshot 1" width="400">  <img src="resources/images/screenshot 2.png" alt="Screenshot 2" width="400"> 
 
 Then name the App with an understandable title.
 
