@@ -40,7 +40,11 @@ Then name the App with an understandable title. When clicking the **Next** butto
 
 ### Redis
 
+The collector step on this project uses the Redis database to store all real-time captured tweets. In order to install the Redis database refer to the official [Redis documentation](https://redis.io)
+
 ### MongoDB
+
+The persister step uses the MongoDB database to move the tweets from the Redis database to MongoDB. In order to install MongoDB refer to the official [MongoDB documentation](https://www.mongodb.com)
 
 ## Source code
 
