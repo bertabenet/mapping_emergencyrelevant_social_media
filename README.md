@@ -6,7 +6,7 @@
 #### Year 2020-2021
 <img src="resources/images/upf_logo.png" alt="Universitat Pompeu Fabra, Escola d'Enginyeria" width="400"/>
 
-[Download paper](https://drive.google.com/uc?export=download&id=13yhNT8ueaLlGxKqEo7dGgydqCwiX4fPD)
+[Download paper](https://drive.google.com/uc?export=download&id=18a-OiOzj9KFJA3ks2H0gptCFsQcQBcZ9)
 
 ------------------------
 
